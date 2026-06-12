@@ -1,0 +1,8 @@
+services:
+  prospect-pipeline:
+    build: .
+    container_name: prospect_pipeline
+    volumes:
+      - ./outputs:/app/outputs
+      - ./state:/app/state
+    command: python run_all.py

@@ -1,0 +1,3463 @@
+{
+  "acorneducation.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "acorneducation.com",
+      "employee_count": 4200,
+      "founded_year": 2019,
+      "hiring_now": true,
+      "industry": "Retail",
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "react",
+        "python"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "acorneducationglob.com": {
+    "attempts": 1,
+    "data": null,
+    "reason": "provider_404",
+    "status": "not_found"
+  },
+  "acorneducationgrou.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "acorneducationgrou.com",
+      "employee_count": 8,
+      "founded_year": 2001,
+      "hiring_now": false,
+      "industry": "Energy",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "acorneducationinte.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "acorneducationinte.com",
+      "employee_count": 4200,
+      "founded_year": 1990,
+      "hiring_now": false,
+      "industry": "Insurance",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "hubspot",
+        "kubernetes",
+        "stripe",
+        "datadog"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "acorneducationpart.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "acorneducationpart.com",
+      "employee_count": 24,
+      "founded_year": 1993,
+      "hiring_now": false,
+      "industry": "Education",
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "stripe"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "anchormarine.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "anchormarine.com",
+      "employee_count": 24,
+      "founded_year": 2016,
+      "hiring_now": true,
+      "industry": "Logistics",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "kubernetes"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "anchormarineglobal.com": {
+    "attempts": 2,
+    "data": null,
+    "reason": "provider_404",
+    "status": "not_found"
+  },
+  "anchormarinegroup.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "anchormarinegroup.com",
+      "employee_count": 8,
+      "founded_year": 2015,
+      "hiring_now": true,
+      "industry": null,
+      "last_funding_months_ago": 14,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": null
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "anchormarineholdin.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "anchormarineholdin.com",
+      "employee_count": 4200,
+      "founded_year": 1986,
+      "hiring_now": true,
+      "industry": "Media",
+      "last_funding_months_ago": 3,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "snowflake"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "anchormarineintern.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "anchormarineintern.com",
+      "employee_count": 1500,
+      "founded_year": 2019,
+      "hiring_now": false,
+      "industry": "Retail",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "azure"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "anchormarinepartne.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "anchormarinepartne.com",
+      "employee_count": 24,
+      "founded_year": 2017,
+      "hiring_now": true,
+      "industry": "Construction",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "kubernetes"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "basaltconstruction.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "basaltconstruction.com",
+      "employee_count": 750,
+      "founded_year": 1997,
+      "hiring_now": false,
+      "industry": "Retail",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "segment"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "birchfurniture.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "birchfurniture.com",
+      "employee_count": 320,
+      "founded_year": null,
+      "hiring_now": true,
+      "industry": "Logistics",
+      "last_funding_months_ago": null,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "gcp"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "birchfurnitureglob.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "birchfurnitureglob.com",
+      "employee_count": 1500,
+      "founded_year": 2003,
+      "hiring_now": false,
+      "industry": "Gaming",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "python",
+        "kubernetes"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "birchfurnituregrou.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "birchfurnituregrou.com",
+      "employee_count": 4200,
+      "founded_year": 2007,
+      "hiring_now": false,
+      "industry": "Hospitality",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "react",
+        "segment"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "birchfurniturehold.com": {
+    "attempts": 1,
+    "data": null,
+    "reason": "provider_404",
+    "status": "not_found"
+  },
+  "birchfurnitureinte.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "birchfurnitureinte.com",
+      "employee_count": 24,
+      "founded_year": 2006,
+      "hiring_now": false,
+      "industry": "Software",
+      "last_funding_months_ago": 3,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "python"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "birchfurniturepart.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "birchfurniturepart.com",
+      "employee_count": 140,
+      "founded_year": 2012,
+      "hiring_now": false,
+      "industry": "Software",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "segment",
+        "python",
+        "react"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "brightpathanalytic.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "brightpathanalytic.com",
+      "employee_count": 60,
+      "founded_year": 1989,
+      "hiring_now": true,
+      "industry": "Education",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "cedarsystems.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "cedarsystems.com",
+      "employee_count": 4200,
+      "founded_year": null,
+      "hiring_now": false,
+      "industry": null,
+      "last_funding_months_ago": 26,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "cedarsystemsglobal.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "cedarsystemsglobal.com",
+      "employee_count": 8,
+      "founded_year": 2021,
+      "hiring_now": false,
+      "industry": "Education",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "cedarsystemsgroup.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "cedarsystemsgroup.com",
+      "employee_count": 60,
+      "founded_year": 2012,
+      "hiring_now": false,
+      "industry": "Manufacturing",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "snowflake"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "cedarsystemsholdin.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "cedarsystemsholdin.com",
+      "employee_count": 8,
+      "founded_year": 2007,
+      "hiring_now": false,
+      "industry": "Energy",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "kubernetes",
+        "gcp",
+        "hubspot"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "cedarsystemsintern.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "cedarsystemsintern.com",
+      "employee_count": 1500,
+      "founded_year": 2009,
+      "hiring_now": true,
+      "industry": "Software",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "azure",
+        "aws",
+        "segment",
+        "python"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "cedarsystemspartne.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "cedarsystemspartne.com",
+      "employee_count": 750,
+      "founded_year": 1989,
+      "hiring_now": false,
+      "industry": "Manufacturing",
+      "last_funding_months_ago": 3,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "aws",
+        "segment"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "cobalttelecom.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "cobalttelecom.com",
+      "employee_count": 1500,
+      "founded_year": 1993,
+      "hiring_now": true,
+      "industry": "Telecom",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "datadog",
+        "kubernetes"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "cobalttelecomgloba.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "cobalttelecomgloba.com",
+      "employee_count": 8,
+      "founded_year": 2005,
+      "hiring_now": false,
+      "industry": "Hospitality",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "segment",
+        "gcp"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "cobalttelecomgroup.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "cobalttelecomgroup.com",
+      "employee_count": 1500,
+      "founded_year": 1995,
+      "hiring_now": false,
+      "industry": "Media",
+      "last_funding_months_ago": 3,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "salesforce",
+        "azure"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "cobalttelecomholdi.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "cobalttelecomholdi.com",
+      "employee_count": 320,
+      "founded_year": 2020,
+      "hiring_now": true,
+      "industry": "Telecom",
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "salesforce"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "cobalttelecominter.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "cobalttelecominter.com",
+      "employee_count": 320,
+      "founded_year": 2020,
+      "hiring_now": false,
+      "industry": "Hospitality",
+      "last_funding_months_ago": null,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "react",
+        "kubernetes"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "cobalttelecompartn.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "cobalttelecompartn.com",
+      "employee_count": 4200,
+      "founded_year": 2013,
+      "hiring_now": false,
+      "industry": "Retail",
+      "last_funding_months_ago": null,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "python",
+        "datadog"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "driftapparel.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "driftapparel.com",
+      "employee_count": 140,
+      "founded_year": 2015,
+      "hiring_now": false,
+      "industry": "Insurance",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "aws",
+        "hubspot",
+        "salesforce"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "driftapparelglobal.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "driftapparelglobal.com",
+      "employee_count": 320,
+      "founded_year": 1987,
+      "hiring_now": false,
+      "industry": "Telecom",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "gcp",
+        "hubspot"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "driftapparelgroup.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "driftapparelgroup.com",
+      "employee_count": 4200,
+      "founded_year": 2012,
+      "hiring_now": false,
+      "industry": "Media",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "driftapparelholdin.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "driftapparelholdin.com",
+      "employee_count": 1500,
+      "founded_year": 2020,
+      "hiring_now": true,
+      "industry": "Gaming",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "datadog",
+        "kubernetes",
+        "salesforce",
+        "azure"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "driftapparelintern.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "driftapparelintern.com",
+      "employee_count": 1500,
+      "founded_year": 1987,
+      "hiring_now": true,
+      "industry": "Retail",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "react",
+        "kubernetes",
+        "hubspot"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "driftapparelpartne.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "driftapparelpartne.com",
+      "employee_count": 8,
+      "founded_year": 2008,
+      "hiring_now": true,
+      "industry": "Insurance",
+      "last_funding_months_ago": 3,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "salesforce",
+        "snowflake"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "emberhospitality.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "emberhospitality.com",
+      "employee_count": 24,
+      "founded_year": 1998,
+      "hiring_now": true,
+      "industry": "Insurance",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$250M+",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "emberhospitalitygl.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "emberhospitalitygl.com",
+      "employee_count": 4200,
+      "founded_year": 1997,
+      "hiring_now": false,
+      "industry": null,
+      "last_funding_months_ago": 3,
+      "revenue_band": "$250M+",
+      "tech_signals": null
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "emberhospitalitygr.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "emberhospitalitygr.com",
+      "employee_count": 140,
+      "founded_year": 2018,
+      "hiring_now": true,
+      "industry": "Healthcare",
+      "last_funding_months_ago": 26,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "azure",
+        "react",
+        "aws"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "emberhospitalityho.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "emberhospitalityho.com",
+      "employee_count": 320,
+      "founded_year": 1990,
+      "hiring_now": false,
+      "industry": "Retail",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "react",
+        "hubspot"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "emberhospitalityin.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "emberhospitalityin.com",
+      "employee_count": 8,
+      "founded_year": 1999,
+      "hiring_now": true,
+      "industry": null,
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "aws",
+        "snowflake"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "emberhospitalitypa.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "emberhospitalitypa.com",
+      "employee_count": 750,
+      "founded_year": 1996,
+      "hiring_now": false,
+      "industry": "Pharmaceuticals",
+      "last_funding_months_ago": 26,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "stripe",
+        "aws",
+        "datadog",
+        "react"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "foxgloveenergy.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "foxgloveenergy.com",
+      "employee_count": 750,
+      "founded_year": 1989,
+      "hiring_now": true,
+      "industry": "Energy",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "foxgloveenergyglob.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "foxgloveenergyglob.com",
+      "employee_count": 750,
+      "founded_year": null,
+      "hiring_now": false,
+      "industry": "Education",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$250M+",
+      "tech_signals": null
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "foxgloveenergygrou.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "foxgloveenergygrou.com",
+      "employee_count": 1500,
+      "founded_year": 2012,
+      "hiring_now": false,
+      "industry": "Telecom",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "salesforce"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "foxgloveenergyhold.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "foxgloveenergyhold.com",
+      "employee_count": 140,
+      "founded_year": 2019,
+      "hiring_now": true,
+      "industry": "Insurance",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$250M+",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "foxgloveenergyinte.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "foxgloveenergyinte.com",
+      "employee_count": 24,
+      "founded_year": 1992,
+      "hiring_now": false,
+      "industry": "Construction",
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "aws",
+        "hubspot",
+        "gcp",
+        "salesforce"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "foxgloveenergypart.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "foxgloveenergypart.com",
+      "employee_count": 4200,
+      "founded_year": 1998,
+      "hiring_now": false,
+      "industry": "Energy",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "ghostdomain.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "ghostdomain.com",
+      "employee_count": 24,
+      "founded_year": 2009,
+      "hiring_now": false,
+      "industry": "Pharmaceuticals",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "react",
+        "snowflake",
+        "salesforce"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "graniteinsurance.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "graniteinsurance.com",
+      "employee_count": 750,
+      "founded_year": 2007,
+      "hiring_now": false,
+      "industry": "Gaming",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "python"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "graniteinsurancegl.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "graniteinsurancegl.com",
+      "employee_count": 24,
+      "founded_year": 2007,
+      "hiring_now": false,
+      "industry": "Healthcare",
+      "last_funding_months_ago": 3,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "gcp"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "graniteinsurancegr.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "graniteinsurancegr.com",
+      "employee_count": 750,
+      "founded_year": 2023,
+      "hiring_now": false,
+      "industry": "Logistics",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": null
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "graniteinsuranceho.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "graniteinsuranceho.com",
+      "employee_count": 1500,
+      "founded_year": 1999,
+      "hiring_now": false,
+      "industry": "Construction",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "snowflake",
+        "stripe",
+        "salesforce"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "graniteinsurancein.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "graniteinsurancein.com",
+      "employee_count": 60,
+      "founded_year": 2004,
+      "hiring_now": true,
+      "industry": "Finance",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "aws",
+        "segment"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "graniteinsurancepa.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "graniteinsurancepa.com",
+      "employee_count": 1500,
+      "founded_year": 2014,
+      "hiring_now": false,
+      "industry": "Hospitality",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "python",
+        "datadog",
+        "gcp",
+        "segment"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "halcyonpharma.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "halcyonpharma.com",
+      "employee_count": 8,
+      "founded_year": 2009,
+      "hiring_now": false,
+      "industry": "Media",
+      "last_funding_months_ago": 7,
+      "revenue_band": null,
+      "tech_signals": null
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "halcyonpharmagloba.com": {
+    "attempts": 1,
+    "data": null,
+    "reason": "provider_404",
+    "status": "not_found"
+  },
+  "halcyonpharmagroup.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "halcyonpharmagroup.com",
+      "employee_count": 8,
+      "founded_year": 1997,
+      "hiring_now": true,
+      "industry": "Construction",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "gcp"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "halcyonpharmaholdi.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "halcyonpharmaholdi.com",
+      "employee_count": 60,
+      "founded_year": null,
+      "hiring_now": false,
+      "industry": null,
+      "last_funding_months_ago": 14,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "react",
+        "hubspot",
+        "gcp"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "halcyonpharmainter.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "halcyonpharmainter.com",
+      "employee_count": 24,
+      "founded_year": 2011,
+      "hiring_now": true,
+      "industry": "Hospitality",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "segment",
+        "hubspot"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "halcyonpharmapartn.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "halcyonpharmapartn.com",
+      "employee_count": 60,
+      "founded_year": 2022,
+      "hiring_now": false,
+      "industry": "Energy",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "aws",
+        "snowflake",
+        "segment"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "harborhealth.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "harborhealth.com",
+      "employee_count": 140,
+      "founded_year": 2005,
+      "hiring_now": false,
+      "industry": "Education",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "aws",
+        "gcp",
+        "salesforce"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "harborhealthglobal.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "harborhealthglobal.com",
+      "employee_count": 4200,
+      "founded_year": 1996,
+      "hiring_now": false,
+      "industry": "Retail",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "azure",
+        "salesforce",
+        "segment",
+        "aws"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "harborhealthgroup.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "harborhealthgroup.com",
+      "employee_count": 140,
+      "founded_year": 2013,
+      "hiring_now": false,
+      "industry": "Insurance",
+      "last_funding_months_ago": 26,
+      "revenue_band": null,
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "harborhealthholdin.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "harborhealthholdin.com",
+      "employee_count": 320,
+      "founded_year": 2003,
+      "hiring_now": true,
+      "industry": "Telecom",
+      "last_funding_months_ago": 26,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "python"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "harborhealthintern.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "harborhealthintern.com",
+      "employee_count": 750,
+      "founded_year": 1989,
+      "hiring_now": true,
+      "industry": "Construction",
+      "last_funding_months_ago": 7,
+      "revenue_band": null,
+      "tech_signals": [
+        "salesforce"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "harborhealthpartne.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "harborhealthpartne.com",
+      "employee_count": 140,
+      "founded_year": 2000,
+      "hiring_now": false,
+      "industry": "Gaming",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "azure",
+        "stripe"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "ironwoodagritech.com": {
+    "attempts": 1,
+    "data": null,
+    "reason": "provider_404",
+    "status": "not_found"
+  },
+  "ironwoodagritechgl.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "ironwoodagritechgl.com",
+      "employee_count": 140,
+      "founded_year": 2016,
+      "hiring_now": true,
+      "industry": "Hospitality",
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "salesforce"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "ironwoodagritechgr.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "ironwoodagritechgr.com",
+      "employee_count": 24,
+      "founded_year": 2020,
+      "hiring_now": false,
+      "industry": "Education",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "stripe"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "ironwoodagritechho.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "ironwoodagritechho.com",
+      "employee_count": 8,
+      "founded_year": 1988,
+      "hiring_now": true,
+      "industry": null,
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": null
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "ironwoodagritechin.com": {
+    "attempts": 1,
+    "data": null,
+    "reason": "provider_404",
+    "status": "not_found"
+  },
+  "ironwoodagritechpa.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "ironwoodagritechpa.com",
+      "employee_count": 140,
+      "founded_year": 2010,
+      "hiring_now": false,
+      "industry": "Energy",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "kubernetes",
+        "azure"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "junipermobility.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "junipermobility.com",
+      "employee_count": 60,
+      "founded_year": 2016,
+      "hiring_now": true,
+      "industry": "Logistics",
+      "last_funding_months_ago": 3,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "datadog",
+        "hubspot"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "junipermobilityglo.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "junipermobilityglo.com",
+      "employee_count": 8,
+      "founded_year": 1990,
+      "hiring_now": false,
+      "industry": "Hospitality",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$250M+",
+      "tech_signals": null
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "junipermobilitygro.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "junipermobilitygro.com",
+      "employee_count": 1500,
+      "founded_year": null,
+      "hiring_now": true,
+      "industry": null,
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "kubernetes",
+        "hubspot"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "junipermobilityhol.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "junipermobilityhol.com",
+      "employee_count": 24,
+      "founded_year": 1985,
+      "hiring_now": false,
+      "industry": "Manufacturing",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "react"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "junipermobilityint.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "junipermobilityint.com",
+      "employee_count": 320,
+      "founded_year": null,
+      "hiring_now": false,
+      "industry": null,
+      "last_funding_months_ago": 7,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "react",
+        "datadog",
+        "salesforce"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "junipermobilitypar.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "junipermobilitypar.com",
+      "employee_count": 60,
+      "founded_year": 2015,
+      "hiring_now": false,
+      "industry": "Education",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "stripe",
+        "azure",
+        "react"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "kestrelsecurity.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "kestrelsecurity.com",
+      "employee_count": 140,
+      "founded_year": null,
+      "hiring_now": true,
+      "industry": "Logistics",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "azure",
+        "gcp",
+        "salesforce",
+        "react"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "kestrelsecurityglo.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "kestrelsecurityglo.com",
+      "employee_count": 24,
+      "founded_year": 1987,
+      "hiring_now": true,
+      "industry": "Retail",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "hubspot",
+        "azure",
+        "python",
+        "snowflake"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "kestrelsecuritygro.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "kestrelsecuritygro.com",
+      "employee_count": 4200,
+      "founded_year": 2013,
+      "hiring_now": false,
+      "industry": "Energy",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "kubernetes",
+        "datadog",
+        "azure"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "kestrelsecurityhol.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "kestrelsecurityhol.com",
+      "employee_count": 4200,
+      "founded_year": null,
+      "hiring_now": true,
+      "industry": "Pharmaceuticals",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": null
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "kestrelsecurityint.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "kestrelsecurityint.com",
+      "employee_count": 8,
+      "founded_year": 1990,
+      "hiring_now": true,
+      "industry": "Software",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "kestrelsecuritypar.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "kestrelsecuritypar.com",
+      "employee_count": 8,
+      "founded_year": 1987,
+      "hiring_now": false,
+      "industry": "Hospitality",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "azure",
+        "python",
+        "gcp"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "larkspurtoys.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "larkspurtoys.com",
+      "employee_count": 4200,
+      "founded_year": 2023,
+      "hiring_now": false,
+      "industry": "Logistics",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "aws"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "larkspurtoysglobal.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "larkspurtoysglobal.com",
+      "employee_count": 60,
+      "founded_year": 2022,
+      "hiring_now": false,
+      "industry": "Energy",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "kubernetes",
+        "azure",
+        "segment"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "larkspurtoysgroup.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "larkspurtoysgroup.com",
+      "employee_count": 8,
+      "founded_year": 1991,
+      "hiring_now": false,
+      "industry": "Finance",
+      "last_funding_months_ago": null,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "larkspurtoysholdin.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "larkspurtoysholdin.com",
+      "employee_count": 320,
+      "founded_year": 1994,
+      "hiring_now": false,
+      "industry": "Logistics",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "react"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "larkspurtoyspartne.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "larkspurtoyspartne.com",
+      "employee_count": 24,
+      "founded_year": 1994,
+      "hiring_now": true,
+      "industry": "Telecom",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "segment",
+        "azure"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "lumenretail.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "lumenretail.com",
+      "employee_count": 4200,
+      "founded_year": 2015,
+      "hiring_now": true,
+      "industry": "Education",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "aws"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "lumenretailglobal.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "lumenretailglobal.com",
+      "employee_count": 4200,
+      "founded_year": 2023,
+      "hiring_now": false,
+      "industry": "Media",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "kubernetes",
+        "python",
+        "stripe",
+        "salesforce"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "lumenretailgroup.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "lumenretailgroup.com",
+      "employee_count": 140,
+      "founded_year": 1991,
+      "hiring_now": false,
+      "industry": "Logistics",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "kubernetes",
+        "python",
+        "datadog"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "lumenretailholding.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "lumenretailholding.com",
+      "employee_count": 24,
+      "founded_year": 1995,
+      "hiring_now": false,
+      "industry": "Logistics",
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "python"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "lumenretailinterna.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "lumenretailinterna.com",
+      "employee_count": 60,
+      "founded_year": 2009,
+      "hiring_now": false,
+      "industry": "Energy",
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "salesforce",
+        "snowflake",
+        "react"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "lumenretailpartner.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "lumenretailpartner.com",
+      "employee_count": 320,
+      "founded_year": null,
+      "hiring_now": true,
+      "industry": null,
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "meridiantravel.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "meridiantravel.com",
+      "employee_count": 140,
+      "founded_year": 2007,
+      "hiring_now": false,
+      "industry": null,
+      "last_funding_months_ago": null,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": null
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "meridiantravelglob.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "meridiantravelglob.com",
+      "employee_count": 60,
+      "founded_year": 1992,
+      "hiring_now": true,
+      "industry": "Finance",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "react",
+        "kubernetes",
+        "azure"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "meridiantravelgrou.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "meridiantravelgrou.com",
+      "employee_count": 140,
+      "founded_year": 2017,
+      "hiring_now": false,
+      "industry": "Construction",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "snowflake"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "meridiantravelhold.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "meridiantravelhold.com",
+      "employee_count": 1500,
+      "founded_year": 1988,
+      "hiring_now": false,
+      "industry": "Media",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "datadog",
+        "segment"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "meridiantravelinte.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "meridiantravelinte.com",
+      "employee_count": 24,
+      "founded_year": 2007,
+      "hiring_now": false,
+      "industry": "Finance",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "react",
+        "aws",
+        "salesforce",
+        "hubspot"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "mosaicpayments.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "mosaicpayments.com",
+      "employee_count": 8,
+      "founded_year": 1997,
+      "hiring_now": true,
+      "industry": "Construction",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "gcp",
+        "stripe"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "mosaicpaymentsglob.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "mosaicpaymentsglob.com",
+      "employee_count": 1500,
+      "founded_year": 2011,
+      "hiring_now": false,
+      "industry": "Construction",
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "kubernetes"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "mosaicpaymentsgrou.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "mosaicpaymentsgrou.com",
+      "employee_count": 8,
+      "founded_year": null,
+      "hiring_now": false,
+      "industry": "Media",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "azure",
+        "python",
+        "snowflake",
+        "segment"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "mosaicpaymentshold.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "mosaicpaymentshold.com",
+      "employee_count": 750,
+      "founded_year": 2009,
+      "hiring_now": true,
+      "industry": "Construction",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "gcp",
+        "snowflake",
+        "salesforce",
+        "react"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "mosaicpaymentsinte.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "mosaicpaymentsinte.com",
+      "employee_count": 140,
+      "founded_year": null,
+      "hiring_now": true,
+      "industry": "Hospitality",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "python",
+        "segment",
+        "azure"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "mosaicpaymentspart.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "mosaicpaymentspart.com",
+      "employee_count": 4200,
+      "founded_year": 2010,
+      "hiring_now": false,
+      "industry": "Healthcare",
+      "last_funding_months_ago": null,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "gcp",
+        "azure",
+        "datadog",
+        "kubernetes"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "nimbuscloud.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "nimbuscloud.com",
+      "employee_count": 8,
+      "founded_year": 2021,
+      "hiring_now": false,
+      "industry": "Media",
+      "last_funding_months_ago": 26,
+      "revenue_band": "<$1M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "nimbuscloudglobal.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "nimbuscloudglobal.com",
+      "employee_count": 750,
+      "founded_year": 1994,
+      "hiring_now": false,
+      "industry": "Software",
+      "last_funding_months_ago": null,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "gcp",
+        "hubspot",
+        "snowflake"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "nimbuscloudgroup.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "nimbuscloudgroup.com",
+      "employee_count": 750,
+      "founded_year": 2004,
+      "hiring_now": false,
+      "industry": "Gaming",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "aws",
+        "datadog",
+        "snowflake"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "nimbuscloudholding.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "nimbuscloudholding.com",
+      "employee_count": 60,
+      "founded_year": 2020,
+      "hiring_now": true,
+      "industry": "Retail",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "nimbuscloudpartner.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "nimbuscloudpartner.com",
+      "employee_count": 8,
+      "founded_year": 2010,
+      "hiring_now": true,
+      "industry": "Energy",
+      "last_funding_months_ago": null,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "northwindlogistics.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "northwindlogistics.com",
+      "employee_count": 140,
+      "founded_year": 2023,
+      "hiring_now": false,
+      "industry": "Software",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": null
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "onyxmining.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "onyxmining.com",
+      "employee_count": 320,
+      "founded_year": null,
+      "hiring_now": true,
+      "industry": null,
+      "last_funding_months_ago": 3,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "onyxminingglobal.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "onyxminingglobal.com",
+      "employee_count": 60,
+      "founded_year": 1995,
+      "hiring_now": false,
+      "industry": "Education",
+      "last_funding_months_ago": 7,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "salesforce",
+        "stripe"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "onyxmininggroup.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "onyxmininggroup.com",
+      "employee_count": 8,
+      "founded_year": 2017,
+      "hiring_now": false,
+      "industry": "Gaming",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "aws"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "onyxminingholdings.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "onyxminingholdings.com",
+      "employee_count": 750,
+      "founded_year": 2023,
+      "hiring_now": true,
+      "industry": "Energy",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "salesforce",
+        "react",
+        "snowflake"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "onyxmininginternat.com": {
+    "attempts": 1,
+    "data": null,
+    "reason": "provider_404",
+    "status": "not_found"
+  },
+  "onyxminingpartners.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "onyxminingpartners.com",
+      "employee_count": 140,
+      "founded_year": 2005,
+      "hiring_now": false,
+      "industry": "Healthcare",
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "orbitmanufacturing.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "orbitmanufacturing.com",
+      "employee_count": 1500,
+      "founded_year": 1990,
+      "hiring_now": true,
+      "industry": "Finance",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "react",
+        "azure",
+        "salesforce",
+        "kubernetes"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "petalcosmetics.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "petalcosmetics.com",
+      "employee_count": 140,
+      "founded_year": 1986,
+      "hiring_now": false,
+      "industry": "Construction",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "react"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "petalcosmeticsglob.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "petalcosmeticsglob.com",
+      "employee_count": 140,
+      "founded_year": 2020,
+      "hiring_now": true,
+      "industry": "Insurance",
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "react",
+        "aws",
+        "datadog"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "petalcosmeticsgrou.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "petalcosmeticsgrou.com",
+      "employee_count": 24,
+      "founded_year": 2001,
+      "hiring_now": false,
+      "industry": "Manufacturing",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "salesforce",
+        "hubspot",
+        "snowflake",
+        "python"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "petalcosmeticshold.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "petalcosmeticshold.com",
+      "employee_count": 320,
+      "founded_year": null,
+      "hiring_now": true,
+      "industry": null,
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "react",
+        "salesforce",
+        "datadog",
+        "python"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "petalcosmeticsinte.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "petalcosmeticsinte.com",
+      "employee_count": 320,
+      "founded_year": 2023,
+      "hiring_now": false,
+      "industry": "Pharmaceuticals",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "aws",
+        "azure"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "petalcosmeticspart.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "petalcosmeticspart.com",
+      "employee_count": 140,
+      "founded_year": 1987,
+      "hiring_now": false,
+      "industry": "Healthcare",
+      "last_funding_months_ago": null,
+      "revenue_band": null,
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "pinecrestmedia.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "pinecrestmedia.com",
+      "employee_count": 60,
+      "founded_year": 1987,
+      "hiring_now": false,
+      "industry": "Logistics",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "hubspot"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "pinecrestmediaglob.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "pinecrestmediaglob.com",
+      "employee_count": 8,
+      "founded_year": 1987,
+      "hiring_now": true,
+      "industry": "Education",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "python",
+        "kubernetes"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "pinecrestmediagrou.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "pinecrestmediagrou.com",
+      "employee_count": 750,
+      "founded_year": 2002,
+      "hiring_now": true,
+      "industry": "Manufacturing",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "pinecrestmediahold.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "pinecrestmediahold.com",
+      "employee_count": 320,
+      "founded_year": 2021,
+      "hiring_now": true,
+      "industry": "Logistics",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "segment",
+        "react",
+        "kubernetes"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "pinecrestmediainte.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "pinecrestmediainte.com",
+      "employee_count": 60,
+      "founded_year": 1993,
+      "hiring_now": false,
+      "industry": "Insurance",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "pinecrestmediapart.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "pinecrestmediapart.com",
+      "employee_count": 8,
+      "founded_year": 2022,
+      "hiring_now": true,
+      "industry": "Hospitality",
+      "last_funding_months_ago": null,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "python",
+        "datadog",
+        "salesforce",
+        "azure"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "quartzlegal.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "quartzlegal.com",
+      "employee_count": 8,
+      "founded_year": 2020,
+      "hiring_now": false,
+      "industry": "Gaming",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "datadog"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "quartzlegalglobal.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "quartzlegalglobal.com",
+      "employee_count": 4200,
+      "founded_year": 2021,
+      "hiring_now": true,
+      "industry": "Construction",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "stripe",
+        "segment",
+        "react"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "quartzlegalholding.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "quartzlegalholding.com",
+      "employee_count": 24,
+      "founded_year": 2010,
+      "hiring_now": false,
+      "industry": "Hospitality",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "quartzlegalinterna.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "quartzlegalinterna.com",
+      "employee_count": 8,
+      "founded_year": 2003,
+      "hiring_now": false,
+      "industry": "Gaming",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "kubernetes",
+        "segment",
+        "hubspot",
+        "react"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "quartzlegalpartner.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "quartzlegalpartner.com",
+      "employee_count": 4200,
+      "founded_year": 1989,
+      "hiring_now": false,
+      "industry": "Retail",
+      "last_funding_months_ago": 7,
+      "revenue_band": "<$1M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "quillsoftware.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "quillsoftware.com",
+      "employee_count": 1500,
+      "founded_year": 2016,
+      "hiring_now": false,
+      "industry": "Retail",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "azure",
+        "snowflake"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "quillsoftwaregroup.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "quillsoftwaregroup.com",
+      "employee_count": 4200,
+      "founded_year": 1997,
+      "hiring_now": true,
+      "industry": "Gaming",
+      "last_funding_months_ago": 3,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "salesforce",
+        "kubernetes"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "quillsoftwareholdi.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "quillsoftwareholdi.com",
+      "employee_count": 320,
+      "founded_year": 1995,
+      "hiring_now": false,
+      "industry": "Telecom",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$250M+",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "quillsoftwareinter.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "quillsoftwareinter.com",
+      "employee_count": 320,
+      "founded_year": 2020,
+      "hiring_now": true,
+      "industry": "Finance",
+      "last_funding_months_ago": null,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "snowflake",
+        "hubspot",
+        "salesforce",
+        "react"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "quillsoftwarepartn.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "quillsoftwarepartn.com",
+      "employee_count": 1500,
+      "founded_year": 1985,
+      "hiring_now": false,
+      "industry": "Healthcare",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "python"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "rivethardware.com": {
+    "attempts": 1,
+    "data": null,
+    "reason": "provider_404",
+    "status": "not_found"
+  },
+  "rivethardwaregroup.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "rivethardwaregroup.com",
+      "employee_count": 4200,
+      "founded_year": 2000,
+      "hiring_now": true,
+      "industry": "Energy",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "python",
+        "aws"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "rivethardwareholdi.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "rivethardwareholdi.com",
+      "employee_count": 320,
+      "founded_year": 2020,
+      "hiring_now": false,
+      "industry": "Insurance",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "kubernetes"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "rivethardwareinter.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "rivethardwareinter.com",
+      "employee_count": 4200,
+      "founded_year": 1997,
+      "hiring_now": true,
+      "industry": "Hospitality",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "snowflake",
+        "gcp",
+        "datadog"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "rivethardwarepartn.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "rivethardwarepartn.com",
+      "employee_count": 320,
+      "founded_year": 2009,
+      "hiring_now": true,
+      "industry": "Hospitality",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "react",
+        "snowflake"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "saffronspices.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "saffronspices.com",
+      "employee_count": 140,
+      "founded_year": 2013,
+      "hiring_now": true,
+      "industry": "Pharmaceuticals",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "segment",
+        "datadog",
+        "salesforce"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "saffronspicesgloba.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "saffronspicesgloba.com",
+      "employee_count": 8,
+      "founded_year": 1991,
+      "hiring_now": false,
+      "industry": "Insurance",
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "stripe",
+        "react"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "saffronspicesgroup.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "saffronspicesgroup.com",
+      "employee_count": 8,
+      "founded_year": 2015,
+      "hiring_now": false,
+      "industry": "Telecom",
+      "last_funding_months_ago": 26,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "hubspot",
+        "stripe",
+        "gcp",
+        "kubernetes"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "saffronspicesholdi.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "saffronspicesholdi.com",
+      "employee_count": 140,
+      "founded_year": 2010,
+      "hiring_now": true,
+      "industry": "Education",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "stripe",
+        "aws"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "saffronspicesinter.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "saffronspicesinter.com",
+      "employee_count": 750,
+      "founded_year": 2023,
+      "hiring_now": true,
+      "industry": "Energy",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "datadog",
+        "python"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "saffronspicespartn.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "saffronspicespartn.com",
+      "employee_count": 4200,
+      "founded_year": 2022,
+      "hiring_now": true,
+      "industry": "Insurance",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "sterlingrobotics.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "sterlingrobotics.com",
+      "employee_count": 60,
+      "founded_year": null,
+      "hiring_now": false,
+      "industry": "Education",
+      "last_funding_months_ago": 26,
+      "revenue_band": "<$1M",
+      "tech_signals": null
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "sterlingroboticsgr.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "sterlingroboticsgr.com",
+      "employee_count": 60,
+      "founded_year": 2001,
+      "hiring_now": false,
+      "industry": "Insurance",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "react",
+        "python"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "sterlingroboticsho.com": {
+    "attempts": 1,
+    "data": null,
+    "reason": "provider_404",
+    "status": "not_found"
+  },
+  "sterlingroboticsin.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "sterlingroboticsin.com",
+      "employee_count": 4200,
+      "founded_year": 1993,
+      "hiring_now": false,
+      "industry": "Software",
+      "last_funding_months_ago": null,
+      "revenue_band": null,
+      "tech_signals": null
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "sterlingroboticspa.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "sterlingroboticspa.com",
+      "employee_count": 8,
+      "founded_year": 2004,
+      "hiring_now": true,
+      "industry": "Construction",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "gcp"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "strayholdings.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "strayholdings.com",
+      "employee_count": 60,
+      "founded_year": 2003,
+      "hiring_now": false,
+      "industry": "Insurance",
+      "last_funding_months_ago": null,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "python",
+        "snowflake"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "thicketgaming.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "thicketgaming.com",
+      "employee_count": 24,
+      "founded_year": 1986,
+      "hiring_now": false,
+      "industry": "Pharmaceuticals",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "kubernetes",
+        "react",
+        "gcp",
+        "snowflake"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "thicketgaminggloba.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "thicketgaminggloba.com",
+      "employee_count": 750,
+      "founded_year": 2020,
+      "hiring_now": false,
+      "industry": "Logistics",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "datadog",
+        "gcp",
+        "kubernetes",
+        "aws"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "thicketgaminggroup.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "thicketgaminggroup.com",
+      "employee_count": 320,
+      "founded_year": 1986,
+      "hiring_now": true,
+      "industry": "Gaming",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "azure",
+        "aws",
+        "stripe",
+        "hubspot"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "thicketgamingholdi.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "thicketgamingholdi.com",
+      "employee_count": 4200,
+      "founded_year": 1995,
+      "hiring_now": false,
+      "industry": "Education",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "thicketgaminginter.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "thicketgaminginter.com",
+      "employee_count": 140,
+      "founded_year": 1990,
+      "hiring_now": false,
+      "industry": "Gaming",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "thicketgamingpartn.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "thicketgamingpartn.com",
+      "employee_count": 1500,
+      "founded_year": 2017,
+      "hiring_now": true,
+      "industry": "Education",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "tidelinefinance.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "tidelinefinance.com",
+      "employee_count": 140,
+      "founded_year": 1998,
+      "hiring_now": true,
+      "industry": "Pharmaceuticals",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "snowflake",
+        "salesforce",
+        "python",
+        "gcp"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "tidelinefinanceglo.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "tidelinefinanceglo.com",
+      "employee_count": 8,
+      "founded_year": 1997,
+      "hiring_now": false,
+      "industry": "Education",
+      "last_funding_months_ago": 3,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "kubernetes",
+        "snowflake"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "tidelinefinancehol.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "tidelinefinancehol.com",
+      "employee_count": 60,
+      "founded_year": 1991,
+      "hiring_now": true,
+      "industry": "Software",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "tidelinefinanceint.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "tidelinefinanceint.com",
+      "employee_count": 140,
+      "founded_year": 1989,
+      "hiring_now": true,
+      "industry": "Media",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "tidelinefinancepar.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "tidelinefinancepar.com",
+      "employee_count": 4200,
+      "founded_year": 1999,
+      "hiring_now": false,
+      "industry": "Logistics",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "salesforce",
+        "hubspot",
+        "azure",
+        "segment"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "umbraoptics.com": {
+    "attempts": 1,
+    "data": null,
+    "reason": "provider_404",
+    "status": "not_found"
+  },
+  "umbraopticsglobal.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "umbraopticsglobal.com",
+      "employee_count": 1500,
+      "founded_year": 1992,
+      "hiring_now": false,
+      "industry": null,
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": null
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "umbraopticsgroup.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "umbraopticsgroup.com",
+      "employee_count": 60,
+      "founded_year": 1998,
+      "hiring_now": false,
+      "industry": "Logistics",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "salesforce"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "umbraopticsholding.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "umbraopticsholding.com",
+      "employee_count": 750,
+      "founded_year": 2020,
+      "hiring_now": false,
+      "industry": "Healthcare",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "segment"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "umbraopticsinterna.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "umbraopticsinterna.com",
+      "employee_count": 8,
+      "founded_year": 2020,
+      "hiring_now": false,
+      "industry": "Logistics",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "umbraopticspartner.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "umbraopticspartner.com",
+      "employee_count": 4200,
+      "founded_year": 1986,
+      "hiring_now": false,
+      "industry": "Telecom",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "hubspot",
+        "azure",
+        "salesforce"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "vantafoods.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "vantafoods.com",
+      "employee_count": 140,
+      "founded_year": 2005,
+      "hiring_now": false,
+      "industry": "Telecom",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "snowflake",
+        "azure",
+        "python",
+        "hubspot"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "vantafoodsglobal.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "vantafoodsglobal.com",
+      "employee_count": 140,
+      "founded_year": 2015,
+      "hiring_now": true,
+      "industry": "Retail",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "kubernetes",
+        "stripe"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "vantafoodsgroup.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "vantafoodsgroup.com",
+      "employee_count": 24,
+      "founded_year": 1994,
+      "hiring_now": false,
+      "industry": "Hospitality",
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "salesforce"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "vantafoodsholdings.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "vantafoodsholdings.com",
+      "employee_count": 4200,
+      "founded_year": 2020,
+      "hiring_now": true,
+      "industry": "Manufacturing",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "python",
+        "hubspot"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "vantafoodsinternat.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "vantafoodsinternat.com",
+      "employee_count": 4200,
+      "founded_year": 1988,
+      "hiring_now": true,
+      "industry": "Finance",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "vantafoodspartners.com": {
+    "attempts": 1,
+    "data": null,
+    "reason": "provider_404",
+    "status": "not_found"
+  },
+  "verdantlandscaping.com": {
+    "attempts": 1,
+    "data": null,
+    "reason": "provider_404",
+    "status": "not_found"
+  },
+  "willowchildcare.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "willowchildcare.com",
+      "employee_count": 1500,
+      "founded_year": 1990,
+      "hiring_now": false,
+      "industry": "Construction",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "kubernetes",
+        "datadog",
+        "gcp",
+        "hubspot"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "willowchildcaregro.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "willowchildcaregro.com",
+      "employee_count": 1500,
+      "founded_year": 1987,
+      "hiring_now": false,
+      "industry": "Retail",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "datadog",
+        "salesforce",
+        "python",
+        "stripe"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "willowchildcarehol.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "willowchildcarehol.com",
+      "employee_count": 24,
+      "founded_year": 2015,
+      "hiring_now": false,
+      "industry": "Logistics",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "gcp",
+        "snowflake",
+        "datadog",
+        "stripe"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "willowchildcareint.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "willowchildcareint.com",
+      "employee_count": 4200,
+      "founded_year": 1997,
+      "hiring_now": true,
+      "industry": "Insurance",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "salesforce",
+        "kubernetes",
+        "gcp",
+        "datadog"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "willowchildcarepar.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "willowchildcarepar.com",
+      "employee_count": 140,
+      "founded_year": 2011,
+      "hiring_now": false,
+      "industry": "Pharmaceuticals",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "snowflake",
+        "salesforce"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "xenonlabs.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "xenonlabs.com",
+      "employee_count": 60,
+      "founded_year": 1999,
+      "hiring_now": false,
+      "industry": null,
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "azure"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "xenonlabsglobal.com": {
+    "attempts": 3,
+    "data": {
+      "domain": "xenonlabsglobal.com",
+      "employee_count": 4200,
+      "founded_year": 2021,
+      "hiring_now": true,
+      "industry": "Software",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "hubspot"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "xenonlabsgroup.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "xenonlabsgroup.com",
+      "employee_count": 140,
+      "founded_year": 2023,
+      "hiring_now": true,
+      "industry": "Healthcare",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "react",
+        "stripe",
+        "kubernetes"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "xenonlabsholdings.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "xenonlabsholdings.com",
+      "employee_count": 24,
+      "founded_year": 2010,
+      "hiring_now": true,
+      "industry": "Media",
+      "last_funding_months_ago": 3,
+      "revenue_band": null,
+      "tech_signals": [
+        "gcp",
+        "azure"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "xenonlabsinternati.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "xenonlabsinternati.com",
+      "employee_count": 24,
+      "founded_year": 1998,
+      "hiring_now": false,
+      "industry": null,
+      "last_funding_months_ago": 3,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": null
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "xenonlabspartners.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "xenonlabspartners.com",
+      "employee_count": 140,
+      "founded_year": 1991,
+      "hiring_now": true,
+      "industry": "Insurance",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "stripe",
+        "salesforce",
+        "aws",
+        "react"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "yarrowtextiles.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "yarrowtextiles.com",
+      "employee_count": 24,
+      "founded_year": 1992,
+      "hiring_now": false,
+      "industry": "Pharmaceuticals",
+      "last_funding_months_ago": null,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "kubernetes",
+        "segment",
+        "python",
+        "react"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "yarrowtextilesglob.com": {
+    "attempts": 3,
+    "data": {
+      "domain": "yarrowtextilesglob.com",
+      "employee_count": 750,
+      "founded_year": 1994,
+      "hiring_now": true,
+      "industry": "Software",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "gcp",
+        "stripe",
+        "python"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "yarrowtextilesgrou.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "yarrowtextilesgrou.com",
+      "employee_count": 8,
+      "founded_year": 1990,
+      "hiring_now": true,
+      "industry": "Software",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "yarrowtextilespart.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "yarrowtextilespart.com",
+      "employee_count": 24,
+      "founded_year": 2022,
+      "hiring_now": false,
+      "industry": "Education",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$250M+",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "zephyrdrones.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "zephyrdrones.com",
+      "employee_count": 320,
+      "founded_year": 1995,
+      "hiring_now": false,
+      "industry": "Hospitality",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "segment",
+        "python"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "zephyrdronesglobal.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "zephyrdronesglobal.com",
+      "employee_count": 750,
+      "founded_year": 2010,
+      "hiring_now": false,
+      "industry": "Hospitality",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "kubernetes",
+        "snowflake"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "zephyrdronesgroup.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "zephyrdronesgroup.com",
+      "employee_count": 24,
+      "founded_year": 2002,
+      "hiring_now": true,
+      "industry": "Telecom",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "datadog",
+        "aws",
+        "python",
+        "salesforce"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "zephyrdronesholdin.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "zephyrdronesholdin.com",
+      "employee_count": 320,
+      "founded_year": 2001,
+      "hiring_now": true,
+      "industry": "Energy",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": []
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "zephyrdronesintern.com": {
+    "attempts": 2,
+    "data": {
+      "domain": "zephyrdronesintern.com",
+      "employee_count": 140,
+      "founded_year": 1992,
+      "hiring_now": true,
+      "industry": "Gaming",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "aws",
+        "kubernetes"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  },
+  "zephyrdronespartne.com": {
+    "attempts": 1,
+    "data": {
+      "domain": "zephyrdronespartne.com",
+      "employee_count": 8,
+      "founded_year": 1995,
+      "hiring_now": true,
+      "industry": "Energy",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "react",
+        "python",
+        "aws"
+      ]
+    },
+    "reason": "",
+    "status": "success"
+  }
+}

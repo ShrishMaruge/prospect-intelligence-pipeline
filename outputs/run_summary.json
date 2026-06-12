@@ -1,0 +1,112 @@
+{
+  "average_score": 57.85,
+  "cache_hit_rate": 0.0,
+  "domain_group_count": 205,
+  "dropped_records": 1,
+  "duplicate_records_merged": 263,
+  "enrichment_api_calls": 222,
+  "enrichment_cache_hits": 0,
+  "enrichment_failed": 0,
+  "enrichment_not_found": 12,
+  "enrichment_skipped": 17,
+  "enrichment_success": 193,
+  "enrichment_success_rate": 86.94,
+  "failure_breakdown": {
+    "missing_domain": 17,
+    "provider_404": 12
+  },
+  "no_domain_records": 59,
+  "normalized_records": 485,
+  "output_files": {
+    "dead_letter_enrichments": "outputs\\dead_letter_enrichments.csv",
+    "enriched_records": "outputs\\enriched_records.json",
+    "failed_enrichments": "outputs\\failed_enrichments.csv",
+    "normalized_records": "outputs\\normalized_records.csv",
+    "ranked_prospects": "outputs\\ranked_prospects.csv",
+    "resolved_entities": "outputs\\resolved_entities.csv",
+    "run_summary": "outputs\\run_summary.json"
+  },
+  "ranked_prospects": 222,
+  "raw_records": 486,
+  "resolved_entities": 222,
+  "score_distribution": {
+    "0_24": 15,
+    "100_plus": 9,
+    "25_49": 63,
+    "50_74": 89,
+    "75_99": 46
+  },
+  "top_10_prospects": [
+    {
+      "company_name": "orbit manufacturing international",
+      "domain": "orbitmanufacturing.com",
+      "enrichment_status": "success",
+      "score": 115,
+      "score_reasons": "ideal_employee_range;target_industry;active_hiring_signal;recent_funding;relevant_tech_stack;valid_contact_email;valid_domain;multiple_source_mentions"
+    },
+    {
+      "company_name": "Meridian Travel Global Corp",
+      "domain": "meridiantravelglob.com",
+      "enrichment_status": "success",
+      "score": 110,
+      "score_reasons": "ideal_employee_range;target_industry;active_hiring_signal;recent_funding;relevant_tech_stack;valid_contact_email;valid_domain"
+    },
+    {
+      "company_name": "Xenon Labs Group",
+      "domain": "xenonlabsgroup.com",
+      "enrichment_status": "success",
+      "score": 110,
+      "score_reasons": "ideal_employee_range;target_industry;active_hiring_signal;recent_funding;relevant_tech_stack;valid_contact_email;valid_domain"
+    },
+    {
+      "company_name": "VANTA,FOODS GLOBAL LTD",
+      "domain": "vantafoodsglobal.com",
+      "enrichment_status": "success",
+      "score": 105,
+      "score_reasons": "ideal_employee_range;target_industry;active_hiring_signal;recent_funding;valid_contact_email;valid_domain;multiple_source_mentions"
+    },
+    {
+      "company_name": "Cedar,Systems International Ltd.",
+      "domain": "cedarsystemsintern.com",
+      "enrichment_status": "success",
+      "score": 100,
+      "score_reasons": "ideal_employee_range;target_industry;active_hiring_signal;relevant_tech_stack;valid_contact_email;valid_domain;multiple_source_mentions"
+    },
+    {
+      "company_name": "Drift Apparel International Ltd.",
+      "domain": "driftapparelintern.com",
+      "enrichment_status": "success",
+      "score": 100,
+      "score_reasons": "ideal_employee_range;target_industry;active_hiring_signal;relevant_tech_stack;valid_contact_email;valid_domain;multiple_source_mentions"
+    },
+    {
+      "company_name": "Ember Hospitality Group Corp",
+      "domain": "emberhospitalitygr.com",
+      "enrichment_status": "success",
+      "score": 100,
+      "score_reasons": "ideal_employee_range;target_industry;active_hiring_signal;relevant_tech_stack;valid_contact_email;valid_domain;multiple_source_mentions"
+    },
+    {
+      "company_name": "Juniper Mobility Group Incorporated",
+      "domain": "junipermobilitygro.com",
+      "enrichment_status": "success",
+      "score": 100,
+      "score_reasons": "ideal_employee_range;target_industry;active_hiring_signal;relevant_tech_stack;valid_contact_email;valid_domain;multiple_source_mentions"
+    },
+    {
+      "company_name": "saffron spices holdings ltd.",
+      "domain": "saffronspicesholdi.com",
+      "enrichment_status": "success",
+      "score": 100,
+      "score_reasons": "ideal_employee_range;target_industry;active_hiring_signal;relevant_tech_stack;valid_contact_email;valid_domain;multiple_source_mentions"
+    },
+    {
+      "company_name": "Drift Apparel Holdings Corp",
+      "domain": "driftapparelholdin.com",
+      "enrichment_status": "success",
+      "score": 95,
+      "score_reasons": "ideal_employee_range;active_hiring_signal;recent_funding;relevant_tech_stack;valid_contact_email;valid_domain;multiple_source_mentions"
+    }
+  ],
+  "top_score": 115
+}

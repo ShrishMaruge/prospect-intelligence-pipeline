@@ -1,0 +1,30 @@
+entity_id,company_name,domain,status,reason,attempts,retry_eligible,next_action
+verdantlandscaping-com,Verdant Landscaping LLC,verdantlandscaping.com,not_found,provider_404,1,False,verify_domain_or_accept_not_found
+vantafoodspartners-com,VANTA FOODS PARTNERS CO.,vantafoodspartners.com,not_found,provider_404,1,False,verify_domain_or_accept_not_found
+onyxmininginternat-com,Onyx Mining International LLC,onyxmininginternat.com,not_found,provider_404,1,False,verify_domain_or_accept_not_found
+ironwoodagritech-com,ironwood agritech incorporated,ironwoodagritech.com,not_found,provider_404,1,False,verify_domain_or_accept_not_found
+birchfurniturehold-com,BIRCH FURNITURE HOLDINGS LTD,birchfurniturehold.com,not_found,provider_404,1,False,verify_domain_or_accept_not_found
+ironwoodagritechin-com,"Ironwood,Agritech International Co.",ironwoodagritechin.com,not_found,provider_404,1,False,verify_domain_or_accept_not_found
+acorneducationglob-com,Acorn Education Global Inc,acorneducationglob.com,not_found,provider_404,1,False,verify_domain_or_accept_not_found
+umbraoptics-com,UMBRA OPTICS CO,umbraoptics.com,not_found,provider_404,1,False,verify_domain_or_accept_not_found
+rivethardware-com,Rivet Hardware Inc.,rivethardware.com,not_found,provider_404,1,False,verify_domain_or_accept_not_found
+halcyonpharmagloba-com,Halcyon Pharma Global Inc,halcyonpharmagloba.com,not_found,provider_404,1,False,verify_domain_or_accept_not_found
+anchormarineglobal-com,Anchor Marine Global,anchormarineglobal.com,not_found,provider_404,2,False,verify_domain_or_accept_not_found
+sterlingroboticsho-com,Sterling Robotics Holdings Co.,sterlingroboticsho.com,not_found,provider_404,1,False,verify_domain_or_accept_not_found
+foxglove-energy-incorporated,FOXGLOVE ENERGY INCORPORATED,,skipped,missing_domain,0,False,fix_or_source_domain
+meridian-travel-partners,Meridian Travel Partners Ltd.,,skipped,missing_domain,0,False,fix_or_source_domain
+quill-software-global-incorporated,Quill Software Global Incorporated,,skipped,missing_domain,0,False,fix_or_source_domain
+orbit-manufacturing,Orbit Manufacturing Ltd,,skipped,missing_domain,0,False,fix_or_source_domain
+yarrow-textiles-international,Yarrow Textiles International LLC,,skipped,missing_domain,0,False,fix_or_source_domain
+orbit-manufacturing-incorporated,orbit manufacturing holdings incorporated,,skipped,missing_domain,0,False,fix_or_source_domain
+saffron-spices-international,Saffron Spices International Ltd,,skipped,missing_domain,0,False,fix_or_source_domain
+verdant-landscaping-global,"Verdant,Landscaping Global",,skipped,missing_domain,0,False,fix_or_source_domain
+rivet-hardware-global,Rivet Hardware Global Inc.,,skipped,missing_domain,0,False,fix_or_source_domain
+nimbus-cloud-international,nimbus cloud international inc,,skipped,missing_domain,0,False,fix_or_source_domain
+nimbus-cloud-global-incorporated,Nimbus Cloud Global Incorporated,,skipped,missing_domain,0,False,fix_or_source_domain
+drift-apparel-international-incorporated,Drift Apparel International Incorporated,,skipped,missing_domain,0,False,fix_or_source_domain
+willow-childcare-global,Willow Childcare Global,,skipped,missing_domain,0,False,fix_or_source_domain
+sterling-robotics-global,sterling robotics global corp,,skipped,missing_domain,0,False,fix_or_source_domain
+northwind-logistics,Northwind Logistics Group LLC,,skipped,missing_domain,0,False,fix_or_source_domain
+larkspur-toys-international-incorporated,Larkspur Toys International Incorporated,,skipped,missing_domain,0,False,fix_or_source_domain
+umbra-optics-incorporated,Umbra Optics Incorporated,,skipped,missing_domain,0,False,fix_or_source_domain

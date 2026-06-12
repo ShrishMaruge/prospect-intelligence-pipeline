@@ -1,0 +1,4231 @@
+[
+  {
+    "company_name": "BASALT CONSTRUCTION INTERNATIONAL CO",
+    "domain": "basaltconstruction.com",
+    "enrichment": {
+      "domain": "basaltconstruction.com",
+      "employee_count": 750,
+      "founded_year": 1997,
+      "hiring_now": false,
+      "industry": "Retail",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "segment"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "basaltconstruction-com"
+  },
+  {
+    "company_name": "IRONWOOD,AGRITECH HOLDINGS INC.",
+    "domain": "ironwoodagritechho.com",
+    "enrichment": {
+      "domain": "ironwoodagritechho.com",
+      "employee_count": 8,
+      "founded_year": 1988,
+      "hiring_now": true,
+      "industry": null,
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": null
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "ironwoodagritechho-com"
+  },
+  {
+    "company_name": "northwind,logistics global inc",
+    "domain": "northwindlogistics.com",
+    "enrichment": {
+      "domain": "northwindlogistics.com",
+      "employee_count": 140,
+      "founded_year": 2023,
+      "hiring_now": false,
+      "industry": "Software",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": null
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "northwindlogistics-com"
+  },
+  {
+    "company_name": "Nimbus Cloud Global Co",
+    "domain": "nimbuscloudglobal.com",
+    "enrichment": {
+      "domain": "nimbuscloudglobal.com",
+      "employee_count": 750,
+      "founded_year": 1994,
+      "hiring_now": false,
+      "industry": "Software",
+      "last_funding_months_ago": null,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "gcp",
+        "hubspot",
+        "snowflake"
+      ]
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "nimbuscloudglobal-com"
+  },
+  {
+    "company_name": "NIMBUS,CLOUD PARTNERS INCORPORATED",
+    "domain": "nimbuscloudpartner.com",
+    "enrichment": {
+      "domain": "nimbuscloudpartner.com",
+      "employee_count": 8,
+      "founded_year": 2010,
+      "hiring_now": true,
+      "industry": "Energy",
+      "last_funding_months_ago": null,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "nimbuscloudpartner-com"
+  },
+  {
+    "company_name": "Foxglove Energy Group Co",
+    "domain": "foxgloveenergygrou.com",
+    "enrichment": {
+      "domain": "foxgloveenergygrou.com",
+      "employee_count": 1500,
+      "founded_year": 2012,
+      "hiring_now": false,
+      "industry": "Telecom",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "salesforce"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "foxgloveenergygrou-com"
+  },
+  {
+    "company_name": "Brightpath Analytics Corp",
+    "domain": "brightpathanalytic.com",
+    "enrichment": {
+      "domain": "brightpathanalytic.com",
+      "employee_count": 60,
+      "founded_year": 1989,
+      "hiring_now": true,
+      "industry": "Education",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "brightpathanalytic-com"
+  },
+  {
+    "company_name": "orbit manufacturing international",
+    "domain": "orbitmanufacturing.com",
+    "enrichment": {
+      "domain": "orbitmanufacturing.com",
+      "employee_count": 1500,
+      "founded_year": 1990,
+      "hiring_now": true,
+      "industry": "Finance",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "react",
+        "azure",
+        "salesforce",
+        "kubernetes"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "orbitmanufacturing-com"
+  },
+  {
+    "company_name": "ZEPHYR DRONES INTERNATIONAL",
+    "domain": "zephyrdronesintern.com",
+    "enrichment": {
+      "domain": "zephyrdronesintern.com",
+      "employee_count": 140,
+      "founded_year": 1992,
+      "hiring_now": true,
+      "industry": "Gaming",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "aws",
+        "kubernetes"
+      ]
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "zephyrdronesintern-com"
+  },
+  {
+    "company_name": "Granite Insurance Partners Corp",
+    "domain": "graniteinsurancepa.com",
+    "enrichment": {
+      "domain": "graniteinsurancepa.com",
+      "employee_count": 1500,
+      "founded_year": 2014,
+      "hiring_now": false,
+      "industry": "Hospitality",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "python",
+        "datadog",
+        "gcp",
+        "segment"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "graniteinsurancepa-com"
+  },
+  {
+    "company_name": "Willow Childcare International LLC",
+    "domain": "willowchildcareint.com",
+    "enrichment": {
+      "domain": "willowchildcareint.com",
+      "employee_count": 4200,
+      "founded_year": 1997,
+      "hiring_now": true,
+      "industry": "Insurance",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "salesforce",
+        "kubernetes",
+        "gcp",
+        "datadog"
+      ]
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "willowchildcareint-com"
+  },
+  {
+    "company_name": "Thicket,Gaming International Corp",
+    "domain": "thicketgaminginter.com",
+    "enrichment": {
+      "domain": "thicketgaminginter.com",
+      "employee_count": 140,
+      "founded_year": 1990,
+      "hiring_now": false,
+      "industry": "Gaming",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "thicketgaminginter-com"
+  },
+  {
+    "company_name": "Xenon Labs Co",
+    "domain": "xenonlabs.com",
+    "enrichment": {
+      "domain": "xenonlabs.com",
+      "employee_count": 60,
+      "founded_year": 1999,
+      "hiring_now": false,
+      "industry": null,
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "azure"
+      ]
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "xenonlabs-com"
+  },
+  {
+    "company_name": "COBALT,TELECOM GROUP INC",
+    "domain": "cobalttelecomgroup.com",
+    "enrichment": {
+      "domain": "cobalttelecomgroup.com",
+      "employee_count": 1500,
+      "founded_year": 1995,
+      "hiring_now": false,
+      "industry": "Media",
+      "last_funding_months_ago": 3,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "salesforce",
+        "azure"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "cobalttelecomgroup-com"
+  },
+  {
+    "company_name": "Larkspur Toys Group LLC",
+    "domain": "larkspurtoysgroup.com",
+    "enrichment": {
+      "domain": "larkspurtoysgroup.com",
+      "employee_count": 8,
+      "founded_year": 1991,
+      "hiring_now": false,
+      "industry": "Finance",
+      "last_funding_months_ago": null,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "larkspurtoysgroup-com"
+  },
+  {
+    "company_name": "acorn education partners corp",
+    "domain": "acorneducationpart.com",
+    "enrichment": {
+      "domain": "acorneducationpart.com",
+      "employee_count": 24,
+      "founded_year": 1993,
+      "hiring_now": false,
+      "industry": "Education",
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "stripe"
+      ]
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "acorneducationpart-com"
+  },
+  {
+    "company_name": "Foxglove Energy International",
+    "domain": "foxgloveenergyinte.com",
+    "enrichment": {
+      "domain": "foxgloveenergyinte.com",
+      "employee_count": 24,
+      "founded_year": 1992,
+      "hiring_now": false,
+      "industry": "Construction",
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "aws",
+        "hubspot",
+        "gcp",
+        "salesforce"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "foxgloveenergyinte-com"
+  },
+  {
+    "company_name": "Sterling Robotics Group Incorporated",
+    "domain": "sterlingroboticsgr.com",
+    "enrichment": {
+      "domain": "sterlingroboticsgr.com",
+      "employee_count": 60,
+      "founded_year": 2001,
+      "hiring_now": false,
+      "industry": "Insurance",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "react",
+        "python"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "sterlingroboticsgr-com"
+  },
+  {
+    "company_name": "Kestrel,Security",
+    "domain": "kestrelsecurity.com",
+    "enrichment": {
+      "domain": "kestrelsecurity.com",
+      "employee_count": 140,
+      "founded_year": null,
+      "hiring_now": true,
+      "industry": "Logistics",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "azure",
+        "gcp",
+        "salesforce",
+        "react"
+      ]
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "kestrelsecurity-com"
+  },
+  {
+    "company_name": "cedar systems group ltd",
+    "domain": "cedarsystemsgroup.com",
+    "enrichment": {
+      "domain": "cedarsystemsgroup.com",
+      "employee_count": 60,
+      "founded_year": 2012,
+      "hiring_now": false,
+      "industry": "Manufacturing",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "snowflake"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "cedarsystemsgroup-com"
+  },
+  {
+    "company_name": "Onyx Mining Ltd.",
+    "domain": "onyxmining.com",
+    "enrichment": {
+      "domain": "onyxmining.com",
+      "employee_count": 320,
+      "founded_year": null,
+      "hiring_now": true,
+      "industry": null,
+      "last_funding_months_ago": 3,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "onyxmining-com"
+  },
+  {
+    "company_name": "Granite Insurance Global Inc.",
+    "domain": "graniteinsurancegl.com",
+    "enrichment": {
+      "domain": "graniteinsurancegl.com",
+      "employee_count": 24,
+      "founded_year": 2007,
+      "hiring_now": false,
+      "industry": "Healthcare",
+      "last_funding_months_ago": 3,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "gcp"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "graniteinsurancegl-com"
+  },
+  {
+    "company_name": "Verdant Landscaping LLC",
+    "domain": "verdantlandscaping.com",
+    "enrichment": {},
+    "enrichment_attempts": 1,
+    "enrichment_reason": "provider_404",
+    "enrichment_status": "not_found",
+    "entity_id": "verdantlandscaping-com"
+  },
+  {
+    "company_name": "saffron spices co",
+    "domain": "saffronspices.com",
+    "enrichment": {
+      "domain": "saffronspices.com",
+      "employee_count": 140,
+      "founded_year": 2013,
+      "hiring_now": true,
+      "industry": "Pharmaceuticals",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "segment",
+        "datadog",
+        "salesforce"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "saffronspices-com"
+  },
+  {
+    "company_name": "Nimbus Cloud Holdings Incorporated",
+    "domain": "nimbuscloudholding.com",
+    "enrichment": {
+      "domain": "nimbuscloudholding.com",
+      "employee_count": 60,
+      "founded_year": 2020,
+      "hiring_now": true,
+      "industry": "Retail",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "nimbuscloudholding-com"
+  },
+  {
+    "company_name": "Zephyr,Drones Global LLC",
+    "domain": "zephyrdronesglobal.com",
+    "enrichment": {
+      "domain": "zephyrdronesglobal.com",
+      "employee_count": 750,
+      "founded_year": 2010,
+      "hiring_now": false,
+      "industry": "Hospitality",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "kubernetes",
+        "snowflake"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "zephyrdronesglobal-com"
+  },
+  {
+    "company_name": "VANTA FOODS PARTNERS CO.",
+    "domain": "vantafoodspartners.com",
+    "enrichment": {},
+    "enrichment_attempts": 1,
+    "enrichment_reason": "provider_404",
+    "enrichment_status": "not_found",
+    "entity_id": "vantafoodspartners-com"
+  },
+  {
+    "company_name": "Lumen,Retail Incorporated",
+    "domain": "lumenretail.com",
+    "enrichment": {
+      "domain": "lumenretail.com",
+      "employee_count": 4200,
+      "founded_year": 2015,
+      "hiring_now": true,
+      "industry": "Education",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "aws"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "lumenretail-com"
+  },
+  {
+    "company_name": "GRANITE INSURANCE HOLDINGS",
+    "domain": "graniteinsuranceho.com",
+    "enrichment": {
+      "domain": "graniteinsuranceho.com",
+      "employee_count": 1500,
+      "founded_year": 1999,
+      "hiring_now": false,
+      "industry": "Construction",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "snowflake",
+        "stripe",
+        "salesforce"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "graniteinsuranceho-com"
+  },
+  {
+    "company_name": "Halcyon Pharma Partners Co",
+    "domain": "halcyonpharmapartn.com",
+    "enrichment": {
+      "domain": "halcyonpharmapartn.com",
+      "employee_count": 60,
+      "founded_year": 2022,
+      "hiring_now": false,
+      "industry": "Energy",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "aws",
+        "snowflake",
+        "segment"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "halcyonpharmapartn-com"
+  },
+  {
+    "company_name": "Onyx Mining International LLC",
+    "domain": "onyxmininginternat.com",
+    "enrichment": {},
+    "enrichment_attempts": 1,
+    "enrichment_reason": "provider_404",
+    "enrichment_status": "not_found",
+    "entity_id": "onyxmininginternat-com"
+  },
+  {
+    "company_name": "Cedar,Systems International Ltd.",
+    "domain": "cedarsystemsintern.com",
+    "enrichment": {
+      "domain": "cedarsystemsintern.com",
+      "employee_count": 1500,
+      "founded_year": 2009,
+      "hiring_now": true,
+      "industry": "Software",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "azure",
+        "aws",
+        "segment",
+        "python"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "cedarsystemsintern-com"
+  },
+  {
+    "company_name": "NIMBUS CLOUD LTD.",
+    "domain": "nimbuscloud.com",
+    "enrichment": {
+      "domain": "nimbuscloud.com",
+      "employee_count": 8,
+      "founded_year": 2021,
+      "hiring_now": false,
+      "industry": "Media",
+      "last_funding_months_ago": 26,
+      "revenue_band": "<$1M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "nimbuscloud-com"
+  },
+  {
+    "company_name": "yarrow textiles co",
+    "domain": "yarrowtextiles.com",
+    "enrichment": {
+      "domain": "yarrowtextiles.com",
+      "employee_count": 24,
+      "founded_year": 1992,
+      "hiring_now": false,
+      "industry": "Pharmaceuticals",
+      "last_funding_months_ago": null,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "kubernetes",
+        "segment",
+        "python",
+        "react"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "yarrowtextiles-com"
+  },
+  {
+    "company_name": "Lumen Retail Partners Ltd",
+    "domain": "lumenretailpartner.com",
+    "enrichment": {
+      "domain": "lumenretailpartner.com",
+      "employee_count": 320,
+      "founded_year": null,
+      "hiring_now": true,
+      "industry": null,
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "lumenretailpartner-com"
+  },
+  {
+    "company_name": "EMBER HOSPITALITY GLOBAL LTD",
+    "domain": "emberhospitalitygl.com",
+    "enrichment": {
+      "domain": "emberhospitalitygl.com",
+      "employee_count": 4200,
+      "founded_year": 1997,
+      "hiring_now": false,
+      "industry": null,
+      "last_funding_months_ago": 3,
+      "revenue_band": "$250M+",
+      "tech_signals": null
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "emberhospitalitygl-com"
+  },
+  {
+    "company_name": "Cedar Systems Global Ltd",
+    "domain": "cedarsystemsglobal.com",
+    "enrichment": {
+      "domain": "cedarsystemsglobal.com",
+      "employee_count": 8,
+      "founded_year": 2021,
+      "hiring_now": false,
+      "industry": "Education",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "cedarsystemsglobal-com"
+  },
+  {
+    "company_name": "QUARTZ LEGAL GLOBAL LTD",
+    "domain": "quartzlegalglobal.com",
+    "enrichment": {
+      "domain": "quartzlegalglobal.com",
+      "employee_count": 4200,
+      "founded_year": 2021,
+      "hiring_now": true,
+      "industry": "Construction",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "stripe",
+        "segment",
+        "react"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "quartzlegalglobal-com"
+  },
+  {
+    "company_name": "Umbra Optics Group Corp",
+    "domain": "umbraopticsgroup.com",
+    "enrichment": {
+      "domain": "umbraopticsgroup.com",
+      "employee_count": 60,
+      "founded_year": 1998,
+      "hiring_now": false,
+      "industry": "Logistics",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "salesforce"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "umbraopticsgroup-com"
+  },
+  {
+    "company_name": "Harbor Health Ltd",
+    "domain": "harborhealth.com",
+    "enrichment": {
+      "domain": "harborhealth.com",
+      "employee_count": 140,
+      "founded_year": 2005,
+      "hiring_now": false,
+      "industry": "Education",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "aws",
+        "gcp",
+        "salesforce"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "harborhealth-com"
+  },
+  {
+    "company_name": "Drift,Apparel Incorporated",
+    "domain": "driftapparel.com",
+    "enrichment": {
+      "domain": "driftapparel.com",
+      "employee_count": 140,
+      "founded_year": 2015,
+      "hiring_now": false,
+      "industry": "Insurance",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "aws",
+        "hubspot",
+        "salesforce"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "driftapparel-com"
+  },
+  {
+    "company_name": "LARKSPUR TOYS LTD.",
+    "domain": "larkspurtoys.com",
+    "enrichment": {
+      "domain": "larkspurtoys.com",
+      "employee_count": 4200,
+      "founded_year": 2023,
+      "hiring_now": false,
+      "industry": "Logistics",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "aws"
+      ]
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "larkspurtoys-com"
+  },
+  {
+    "company_name": "Quill Software Partners",
+    "domain": "quillsoftwarepartn.com",
+    "enrichment": {
+      "domain": "quillsoftwarepartn.com",
+      "employee_count": 1500,
+      "founded_year": 1985,
+      "hiring_now": false,
+      "industry": "Healthcare",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "python"
+      ]
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "quillsoftwarepartn-com"
+  },
+  {
+    "company_name": "Birch Furniture International Co.",
+    "domain": "birchfurnitureinte.com",
+    "enrichment": {
+      "domain": "birchfurnitureinte.com",
+      "employee_count": 24,
+      "founded_year": 2006,
+      "hiring_now": false,
+      "industry": "Software",
+      "last_funding_months_ago": 3,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "python"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "birchfurnitureinte-com"
+  },
+  {
+    "company_name": "Xenon Labs Partners Co",
+    "domain": "xenonlabspartners.com",
+    "enrichment": {
+      "domain": "xenonlabspartners.com",
+      "employee_count": 140,
+      "founded_year": 1991,
+      "hiring_now": true,
+      "industry": "Insurance",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "stripe",
+        "salesforce",
+        "aws",
+        "react"
+      ]
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "xenonlabspartners-com"
+  },
+  {
+    "company_name": "PINECREST MEDIA PARTNERS CORP",
+    "domain": "pinecrestmediapart.com",
+    "enrichment": {
+      "domain": "pinecrestmediapart.com",
+      "employee_count": 8,
+      "founded_year": 2022,
+      "hiring_now": true,
+      "industry": "Hospitality",
+      "last_funding_months_ago": null,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "python",
+        "datadog",
+        "salesforce",
+        "azure"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "pinecrestmediapart-com"
+  },
+  {
+    "company_name": "Petal Cosmetics International Inc",
+    "domain": "petalcosmeticsinte.com",
+    "enrichment": {
+      "domain": "petalcosmeticsinte.com",
+      "employee_count": 320,
+      "founded_year": 2023,
+      "hiring_now": false,
+      "industry": "Pharmaceuticals",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "aws",
+        "azure"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "petalcosmeticsinte-com"
+  },
+  {
+    "company_name": "COBALT TELECOM HOLDINGS INC.",
+    "domain": "cobalttelecomholdi.com",
+    "enrichment": {
+      "domain": "cobalttelecomholdi.com",
+      "employee_count": 320,
+      "founded_year": 2020,
+      "hiring_now": true,
+      "industry": "Telecom",
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "salesforce"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "cobalttelecomholdi-com"
+  },
+  {
+    "company_name": "Juniper Mobility Partners Inc.",
+    "domain": "junipermobilitypar.com",
+    "enrichment": {
+      "domain": "junipermobilitypar.com",
+      "employee_count": 60,
+      "founded_year": 2015,
+      "hiring_now": false,
+      "industry": "Education",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "stripe",
+        "azure",
+        "react"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "junipermobilitypar-com"
+  },
+  {
+    "company_name": "VANTA,FOODS GLOBAL LTD",
+    "domain": "vantafoodsglobal.com",
+    "enrichment": {
+      "domain": "vantafoodsglobal.com",
+      "employee_count": 140,
+      "founded_year": 2015,
+      "hiring_now": true,
+      "industry": "Retail",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "kubernetes",
+        "stripe"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "vantafoodsglobal-com"
+  },
+  {
+    "company_name": "Cedar Systems",
+    "domain": "cedarsystems.com",
+    "enrichment": {
+      "domain": "cedarsystems.com",
+      "employee_count": 4200,
+      "founded_year": null,
+      "hiring_now": false,
+      "industry": null,
+      "last_funding_months_ago": 26,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "cedarsystems-com"
+  },
+  {
+    "company_name": "YARROW TEXTILES GROUP CORP",
+    "domain": "yarrowtextilesgrou.com",
+    "enrichment": {
+      "domain": "yarrowtextilesgrou.com",
+      "employee_count": 8,
+      "founded_year": 1990,
+      "hiring_now": true,
+      "industry": "Software",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "yarrowtextilesgrou-com"
+  },
+  {
+    "company_name": "Quartz Legal Holdings Inc.",
+    "domain": "quartzlegalholding.com",
+    "enrichment": {
+      "domain": "quartzlegalholding.com",
+      "employee_count": 24,
+      "founded_year": 2010,
+      "hiring_now": false,
+      "industry": "Hospitality",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "quartzlegalholding-com"
+  },
+  {
+    "company_name": "COBALT TELECOM PARTNERS INC",
+    "domain": "cobalttelecompartn.com",
+    "enrichment": {
+      "domain": "cobalttelecompartn.com",
+      "employee_count": 4200,
+      "founded_year": 2013,
+      "hiring_now": false,
+      "industry": "Retail",
+      "last_funding_months_ago": null,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "python",
+        "datadog"
+      ]
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "cobalttelecompartn-com"
+  },
+  {
+    "company_name": "BIRCH FURNITURE GROUP CO.",
+    "domain": "birchfurnituregrou.com",
+    "enrichment": {
+      "domain": "birchfurnituregrou.com",
+      "employee_count": 4200,
+      "founded_year": 2007,
+      "hiring_now": false,
+      "industry": "Hospitality",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "react",
+        "segment"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "birchfurnituregrou-com"
+  },
+  {
+    "company_name": "Quartz Legal Inc.",
+    "domain": "quartzlegal.com",
+    "enrichment": {
+      "domain": "quartzlegal.com",
+      "employee_count": 8,
+      "founded_year": 2020,
+      "hiring_now": false,
+      "industry": "Gaming",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "datadog"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "quartzlegal-com"
+  },
+  {
+    "company_name": "larkspur toys holdings ltd",
+    "domain": "larkspurtoysholdin.com",
+    "enrichment": {
+      "domain": "larkspurtoysholdin.com",
+      "employee_count": 320,
+      "founded_year": 1994,
+      "hiring_now": false,
+      "industry": "Logistics",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "react"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "larkspurtoysholdin-com"
+  },
+  {
+    "company_name": "ACORN EDUCATION INCORPORATED",
+    "domain": "acorneducation.com",
+    "enrichment": {
+      "domain": "acorneducation.com",
+      "employee_count": 4200,
+      "founded_year": 2019,
+      "hiring_now": true,
+      "industry": "Retail",
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "react",
+        "python"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "acorneducation-com"
+  },
+  {
+    "company_name": "Sterling Robotics Corp",
+    "domain": "sterlingrobotics.com",
+    "enrichment": {
+      "domain": "sterlingrobotics.com",
+      "employee_count": 60,
+      "founded_year": null,
+      "hiring_now": false,
+      "industry": "Education",
+      "last_funding_months_ago": 26,
+      "revenue_band": "<$1M",
+      "tech_signals": null
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "sterlingrobotics-com"
+  },
+  {
+    "company_name": "Meridian Travel Corp",
+    "domain": "meridiantravel.com",
+    "enrichment": {
+      "domain": "meridiantravel.com",
+      "employee_count": 140,
+      "founded_year": 2007,
+      "hiring_now": false,
+      "industry": null,
+      "last_funding_months_ago": null,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": null
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "meridiantravel-com"
+  },
+  {
+    "company_name": "ironwood agritech incorporated",
+    "domain": "ironwoodagritech.com",
+    "enrichment": {},
+    "enrichment_attempts": 1,
+    "enrichment_reason": "provider_404",
+    "enrichment_status": "not_found",
+    "entity_id": "ironwoodagritech-com"
+  },
+  {
+    "company_name": "Halcyon,Pharma Group Inc.",
+    "domain": "halcyonpharmagroup.com",
+    "enrichment": {
+      "domain": "halcyonpharmagroup.com",
+      "employee_count": 8,
+      "founded_year": 1997,
+      "hiring_now": true,
+      "industry": "Construction",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "gcp"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "halcyonpharmagroup-com"
+  },
+  {
+    "company_name": "Harbor Health International",
+    "domain": "harborhealthintern.com",
+    "enrichment": {
+      "domain": "harborhealthintern.com",
+      "employee_count": 750,
+      "founded_year": 1989,
+      "hiring_now": true,
+      "industry": "Construction",
+      "last_funding_months_ago": 7,
+      "revenue_band": null,
+      "tech_signals": [
+        "salesforce"
+      ]
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "harborhealthintern-com"
+  },
+  {
+    "company_name": "acorn education international ltd.",
+    "domain": "acorneducationinte.com",
+    "enrichment": {
+      "domain": "acorneducationinte.com",
+      "employee_count": 4200,
+      "founded_year": 1990,
+      "hiring_now": false,
+      "industry": "Insurance",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "hubspot",
+        "kubernetes",
+        "stripe",
+        "datadog"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "acorneducationinte-com"
+  },
+  {
+    "company_name": "Halcyon,Pharma Holdings Inc.",
+    "domain": "halcyonpharmaholdi.com",
+    "enrichment": {
+      "domain": "halcyonpharmaholdi.com",
+      "employee_count": 60,
+      "founded_year": null,
+      "hiring_now": false,
+      "industry": null,
+      "last_funding_months_ago": 14,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "react",
+        "hubspot",
+        "gcp"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "halcyonpharmaholdi-com"
+  },
+  {
+    "company_name": "Yarrow,Textiles Partners Co.",
+    "domain": "yarrowtextilespart.com",
+    "enrichment": {
+      "domain": "yarrowtextilespart.com",
+      "employee_count": 24,
+      "founded_year": 2022,
+      "hiring_now": false,
+      "industry": "Education",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$250M+",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "yarrowtextilespart-com"
+  },
+  {
+    "company_name": "Meridian Travel Holdings Co",
+    "domain": "meridiantravelhold.com",
+    "enrichment": {
+      "domain": "meridiantravelhold.com",
+      "employee_count": 1500,
+      "founded_year": 1988,
+      "hiring_now": false,
+      "industry": "Media",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "datadog",
+        "segment"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "meridiantravelhold-com"
+  },
+  {
+    "company_name": "Foxglove Energy Partners",
+    "domain": "foxgloveenergypart.com",
+    "enrichment": {
+      "domain": "foxgloveenergypart.com",
+      "employee_count": 4200,
+      "founded_year": 1998,
+      "hiring_now": false,
+      "industry": "Energy",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "foxgloveenergypart-com"
+  },
+  {
+    "company_name": "Lumen,Retail Global Inc.",
+    "domain": "lumenretailglobal.com",
+    "enrichment": {
+      "domain": "lumenretailglobal.com",
+      "employee_count": 4200,
+      "founded_year": 2023,
+      "hiring_now": false,
+      "industry": "Media",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "kubernetes",
+        "python",
+        "stripe",
+        "salesforce"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "lumenretailglobal-com"
+  },
+  {
+    "company_name": "Drift Apparel Partners Incorporated",
+    "domain": "driftapparelpartne.com",
+    "enrichment": {
+      "domain": "driftapparelpartne.com",
+      "employee_count": 8,
+      "founded_year": 2008,
+      "hiring_now": true,
+      "industry": "Insurance",
+      "last_funding_months_ago": 3,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "salesforce",
+        "snowflake"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "driftapparelpartne-com"
+  },
+  {
+    "company_name": "Lumen Retail Holdings Co.",
+    "domain": "lumenretailholding.com",
+    "enrichment": {
+      "domain": "lumenretailholding.com",
+      "employee_count": 24,
+      "founded_year": 1995,
+      "hiring_now": false,
+      "industry": "Logistics",
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "python"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "lumenretailholding-com"
+  },
+  {
+    "company_name": "ember,hospitality ltd",
+    "domain": "emberhospitality.com",
+    "enrichment": {
+      "domain": "emberhospitality.com",
+      "employee_count": 24,
+      "founded_year": 1998,
+      "hiring_now": true,
+      "industry": "Insurance",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$250M+",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "emberhospitality-com"
+  },
+  {
+    "company_name": "JUNIPER MOBILITY GLOBAL LTD.",
+    "domain": "junipermobilityglo.com",
+    "enrichment": {
+      "domain": "junipermobilityglo.com",
+      "employee_count": 8,
+      "founded_year": 1990,
+      "hiring_now": false,
+      "industry": "Hospitality",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$250M+",
+      "tech_signals": null
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "junipermobilityglo-com"
+  },
+  {
+    "company_name": "Granite Insurance LLC",
+    "domain": "graniteinsurance.com",
+    "enrichment": {
+      "domain": "graniteinsurance.com",
+      "employee_count": 750,
+      "founded_year": 2007,
+      "hiring_now": false,
+      "industry": "Gaming",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "python"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "graniteinsurance-com"
+  },
+  {
+    "company_name": "Quartz Legal International Inc",
+    "domain": "quartzlegalinterna.com",
+    "enrichment": {
+      "domain": "quartzlegalinterna.com",
+      "employee_count": 8,
+      "founded_year": 2003,
+      "hiring_now": false,
+      "industry": "Gaming",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "kubernetes",
+        "segment",
+        "hubspot",
+        "react"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "quartzlegalinterna-com"
+  },
+  {
+    "company_name": "Mosaic,Payments Group Inc.",
+    "domain": "mosaicpaymentsgrou.com",
+    "enrichment": {
+      "domain": "mosaicpaymentsgrou.com",
+      "employee_count": 8,
+      "founded_year": null,
+      "hiring_now": false,
+      "industry": "Media",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "azure",
+        "python",
+        "snowflake",
+        "segment"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "mosaicpaymentsgrou-com"
+  },
+  {
+    "company_name": "Ember Hospitality Group Corp",
+    "domain": "emberhospitalitygr.com",
+    "enrichment": {
+      "domain": "emberhospitalitygr.com",
+      "employee_count": 140,
+      "founded_year": 2018,
+      "hiring_now": true,
+      "industry": "Healthcare",
+      "last_funding_months_ago": 26,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "azure",
+        "react",
+        "aws"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "emberhospitalitygr-com"
+  },
+  {
+    "company_name": "Anchor Marine Partners Incorporated",
+    "domain": "anchormarinepartne.com",
+    "enrichment": {
+      "domain": "anchormarinepartne.com",
+      "employee_count": 24,
+      "founded_year": 2017,
+      "hiring_now": true,
+      "industry": "Construction",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "kubernetes"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "anchormarinepartne-com"
+  },
+  {
+    "company_name": "HARBOR HEALTH PARTNERS INC",
+    "domain": "harborhealthpartne.com",
+    "enrichment": {
+      "domain": "harborhealthpartne.com",
+      "employee_count": 140,
+      "founded_year": 2000,
+      "hiring_now": false,
+      "industry": "Gaming",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "azure",
+        "stripe"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "harborhealthpartne-com"
+  },
+  {
+    "company_name": "BIRCH FURNITURE HOLDINGS LTD",
+    "domain": "birchfurniturehold.com",
+    "enrichment": {},
+    "enrichment_attempts": 1,
+    "enrichment_reason": "provider_404",
+    "enrichment_status": "not_found",
+    "entity_id": "birchfurniturehold-com"
+  },
+  {
+    "company_name": "Drift,Apparel Group Ltd",
+    "domain": "driftapparelgroup.com",
+    "enrichment": {
+      "domain": "driftapparelgroup.com",
+      "employee_count": 4200,
+      "founded_year": 2012,
+      "hiring_now": false,
+      "industry": "Media",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "driftapparelgroup-com"
+  },
+  {
+    "company_name": "Saffron Spices Partners Co.",
+    "domain": "saffronspicespartn.com",
+    "enrichment": {
+      "domain": "saffronspicespartn.com",
+      "employee_count": 4200,
+      "founded_year": 2022,
+      "hiring_now": true,
+      "industry": "Insurance",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "saffronspicespartn-com"
+  },
+  {
+    "company_name": "Halcyon Pharma Corp",
+    "domain": "halcyonpharma.com",
+    "enrichment": {
+      "domain": "halcyonpharma.com",
+      "employee_count": 8,
+      "founded_year": 2009,
+      "hiring_now": false,
+      "industry": "Media",
+      "last_funding_months_ago": 7,
+      "revenue_band": null,
+      "tech_signals": null
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "halcyonpharma-com"
+  },
+  {
+    "company_name": "Umbra,Optics Partners",
+    "domain": "umbraopticspartner.com",
+    "enrichment": {
+      "domain": "umbraopticspartner.com",
+      "employee_count": 4200,
+      "founded_year": 1986,
+      "hiring_now": false,
+      "industry": "Telecom",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "hubspot",
+        "azure",
+        "salesforce"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "umbraopticspartner-com"
+  },
+  {
+    "company_name": "Meridian Travel Global Corp",
+    "domain": "meridiantravelglob.com",
+    "enrichment": {
+      "domain": "meridiantravelglob.com",
+      "employee_count": 60,
+      "founded_year": 1992,
+      "hiring_now": true,
+      "industry": "Finance",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "react",
+        "kubernetes",
+        "azure"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "meridiantravelglob-com"
+  },
+  {
+    "company_name": "Petal,Cosmetics Group Corp",
+    "domain": "petalcosmeticsgrou.com",
+    "enrichment": {
+      "domain": "petalcosmeticsgrou.com",
+      "employee_count": 24,
+      "founded_year": 2001,
+      "hiring_now": false,
+      "industry": "Manufacturing",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "salesforce",
+        "hubspot",
+        "snowflake",
+        "python"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "petalcosmeticsgrou-com"
+  },
+  {
+    "company_name": "Kestrel Security International Ltd.",
+    "domain": "kestrelsecurityint.com",
+    "enrichment": {
+      "domain": "kestrelsecurityint.com",
+      "employee_count": 8,
+      "founded_year": 1990,
+      "hiring_now": true,
+      "industry": "Software",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "kestrelsecurityint-com"
+  },
+  {
+    "company_name": "Quill Software Co.",
+    "domain": "quillsoftware.com",
+    "enrichment": {
+      "domain": "quillsoftware.com",
+      "employee_count": 1500,
+      "founded_year": 2016,
+      "hiring_now": false,
+      "industry": "Retail",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "azure",
+        "snowflake"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "quillsoftware-com"
+  },
+  {
+    "company_name": "Sterling Robotics Partners Co",
+    "domain": "sterlingroboticspa.com",
+    "enrichment": {
+      "domain": "sterlingroboticspa.com",
+      "employee_count": 8,
+      "founded_year": 2004,
+      "hiring_now": true,
+      "industry": "Construction",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "gcp"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "sterlingroboticspa-com"
+  },
+  {
+    "company_name": "Saffron Spices Group Ltd.",
+    "domain": "saffronspicesgroup.com",
+    "enrichment": {
+      "domain": "saffronspicesgroup.com",
+      "employee_count": 8,
+      "founded_year": 2015,
+      "hiring_now": false,
+      "industry": "Telecom",
+      "last_funding_months_ago": 26,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "hubspot",
+        "stripe",
+        "gcp",
+        "kubernetes"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "saffronspicesgroup-com"
+  },
+  {
+    "company_name": "VANTA FOODS GROUP CO.",
+    "domain": "vantafoodsgroup.com",
+    "enrichment": {
+      "domain": "vantafoodsgroup.com",
+      "employee_count": 24,
+      "founded_year": 1994,
+      "hiring_now": false,
+      "industry": "Hospitality",
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "salesforce"
+      ]
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "vantafoodsgroup-com"
+  },
+  {
+    "company_name": "Thicket Gaming Group Co.",
+    "domain": "thicketgaminggroup.com",
+    "enrichment": {
+      "domain": "thicketgaminggroup.com",
+      "employee_count": 320,
+      "founded_year": 1986,
+      "hiring_now": true,
+      "industry": "Gaming",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "azure",
+        "aws",
+        "stripe",
+        "hubspot"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "thicketgaminggroup-com"
+  },
+  {
+    "company_name": "Foxglove Energy Inc",
+    "domain": "foxgloveenergy.com",
+    "enrichment": {
+      "domain": "foxgloveenergy.com",
+      "employee_count": 750,
+      "founded_year": 1989,
+      "hiring_now": true,
+      "industry": "Energy",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "foxgloveenergy-com"
+  },
+  {
+    "company_name": "Pinecrest Media Incorporated",
+    "domain": "pinecrestmedia.com",
+    "enrichment": {
+      "domain": "pinecrestmedia.com",
+      "employee_count": 60,
+      "founded_year": 1987,
+      "hiring_now": false,
+      "industry": "Logistics",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "hubspot"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "pinecrestmedia-com"
+  },
+  {
+    "company_name": "Ironwood Agritech Group Inc.",
+    "domain": "ironwoodagritechgr.com",
+    "enrichment": {
+      "domain": "ironwoodagritechgr.com",
+      "employee_count": 24,
+      "founded_year": 2020,
+      "hiring_now": false,
+      "industry": "Education",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "stripe"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "ironwoodagritechgr-com"
+  },
+  {
+    "company_name": "Ember Hospitality Partners Corp",
+    "domain": "emberhospitalitypa.com",
+    "enrichment": {
+      "domain": "emberhospitalitypa.com",
+      "employee_count": 750,
+      "founded_year": 1996,
+      "hiring_now": false,
+      "industry": "Pharmaceuticals",
+      "last_funding_months_ago": 26,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "stripe",
+        "aws",
+        "datadog",
+        "react"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "emberhospitalitypa-com"
+  },
+  {
+    "company_name": "Ironwood,Agritech International Co.",
+    "domain": "ironwoodagritechin.com",
+    "enrichment": {},
+    "enrichment_attempts": 1,
+    "enrichment_reason": "provider_404",
+    "enrichment_status": "not_found",
+    "entity_id": "ironwoodagritechin-com"
+  },
+  {
+    "company_name": "cedar,systems holdings incorporated",
+    "domain": "cedarsystemsholdin.com",
+    "enrichment": {
+      "domain": "cedarsystemsholdin.com",
+      "employee_count": 8,
+      "founded_year": 2007,
+      "hiring_now": false,
+      "industry": "Energy",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "kubernetes",
+        "gcp",
+        "hubspot"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "cedarsystemsholdin-com"
+  },
+  {
+    "company_name": "Xenon Labs Global",
+    "domain": "xenonlabsglobal.com",
+    "enrichment": {
+      "domain": "xenonlabsglobal.com",
+      "employee_count": 4200,
+      "founded_year": 2021,
+      "hiring_now": true,
+      "industry": "Software",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "hubspot"
+      ]
+    },
+    "enrichment_attempts": 3,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "xenonlabsglobal-com"
+  },
+  {
+    "company_name": "Acorn Education Global Inc",
+    "domain": "acorneducationglob.com",
+    "enrichment": {},
+    "enrichment_attempts": 1,
+    "enrichment_reason": "provider_404",
+    "enrichment_status": "not_found",
+    "entity_id": "acorneducationglob-com"
+  },
+  {
+    "company_name": "UMBRA OPTICS CO",
+    "domain": "umbraoptics.com",
+    "enrichment": {},
+    "enrichment_attempts": 1,
+    "enrichment_reason": "provider_404",
+    "enrichment_status": "not_found",
+    "entity_id": "umbraoptics-com"
+  },
+  {
+    "company_name": "Onyx Mining Group Ltd",
+    "domain": "onyxmininggroup.com",
+    "enrichment": {
+      "domain": "onyxmininggroup.com",
+      "employee_count": 8,
+      "founded_year": 2017,
+      "hiring_now": false,
+      "industry": "Gaming",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "aws"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "onyxmininggroup-com"
+  },
+  {
+    "company_name": "quill software holdings ltd",
+    "domain": "quillsoftwareholdi.com",
+    "enrichment": {
+      "domain": "quillsoftwareholdi.com",
+      "employee_count": 320,
+      "founded_year": 1995,
+      "hiring_now": false,
+      "industry": "Telecom",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$250M+",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "quillsoftwareholdi-com"
+  },
+  {
+    "company_name": "Mosaic Payments Global",
+    "domain": "mosaicpaymentsglob.com",
+    "enrichment": {
+      "domain": "mosaicpaymentsglob.com",
+      "employee_count": 1500,
+      "founded_year": 2011,
+      "hiring_now": false,
+      "industry": "Construction",
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "kubernetes"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "mosaicpaymentsglob-com"
+  },
+  {
+    "company_name": "Rivet Hardware Inc.",
+    "domain": "rivethardware.com",
+    "enrichment": {},
+    "enrichment_attempts": 1,
+    "enrichment_reason": "provider_404",
+    "enrichment_status": "not_found",
+    "entity_id": "rivethardware-com"
+  },
+  {
+    "company_name": "Tideline,Finance Partners Inc.",
+    "domain": "tidelinefinancepar.com",
+    "enrichment": {
+      "domain": "tidelinefinancepar.com",
+      "employee_count": 4200,
+      "founded_year": 1999,
+      "hiring_now": false,
+      "industry": "Logistics",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "salesforce",
+        "hubspot",
+        "azure",
+        "segment"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "tidelinefinancepar-com"
+  },
+  {
+    "company_name": "saffron spices holdings ltd.",
+    "domain": "saffronspicesholdi.com",
+    "enrichment": {
+      "domain": "saffronspicesholdi.com",
+      "employee_count": 140,
+      "founded_year": 2010,
+      "hiring_now": true,
+      "industry": "Education",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "stripe",
+        "aws"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "saffronspicesholdi-com"
+  },
+  {
+    "company_name": "Thicket Gaming Holdings Inc",
+    "domain": "thicketgamingholdi.com",
+    "enrichment": {
+      "domain": "thicketgamingholdi.com",
+      "employee_count": 4200,
+      "founded_year": 1995,
+      "hiring_now": false,
+      "industry": "Education",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "thicketgamingholdi-com"
+  },
+  {
+    "company_name": "Rivet,Hardware International Incorporated",
+    "domain": "rivethardwareinter.com",
+    "enrichment": {
+      "domain": "rivethardwareinter.com",
+      "employee_count": 4200,
+      "founded_year": 1997,
+      "hiring_now": true,
+      "industry": "Hospitality",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "snowflake",
+        "gcp",
+        "datadog"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "rivethardwareinter-com"
+  },
+  {
+    "company_name": "Tideline Finance International Ltd.",
+    "domain": "tidelinefinanceint.com",
+    "enrichment": {
+      "domain": "tidelinefinanceint.com",
+      "employee_count": 140,
+      "founded_year": 1989,
+      "hiring_now": true,
+      "industry": "Media",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "tidelinefinanceint-com"
+  },
+  {
+    "company_name": "kestrel security global incorporated",
+    "domain": "kestrelsecurityglo.com",
+    "enrichment": {
+      "domain": "kestrelsecurityglo.com",
+      "employee_count": 24,
+      "founded_year": 1987,
+      "hiring_now": true,
+      "industry": "Retail",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "hubspot",
+        "azure",
+        "python",
+        "snowflake"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "kestrelsecurityglo-com"
+  },
+  {
+    "company_name": "Mosaic Payments Partners Inc.",
+    "domain": "mosaicpaymentspart.com",
+    "enrichment": {
+      "domain": "mosaicpaymentspart.com",
+      "employee_count": 4200,
+      "founded_year": 2010,
+      "hiring_now": false,
+      "industry": "Healthcare",
+      "last_funding_months_ago": null,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "gcp",
+        "azure",
+        "datadog",
+        "kubernetes"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "mosaicpaymentspart-com"
+  },
+  {
+    "company_name": "Kestrel Security Partners Co.",
+    "domain": "kestrelsecuritypar.com",
+    "enrichment": {
+      "domain": "kestrelsecuritypar.com",
+      "employee_count": 8,
+      "founded_year": 1987,
+      "hiring_now": false,
+      "industry": "Hospitality",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "azure",
+        "python",
+        "gcp"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "kestrelsecuritypar-com"
+  },
+  {
+    "company_name": "CEDAR SYSTEMS PARTNERS INC",
+    "domain": "cedarsystemspartne.com",
+    "enrichment": {
+      "domain": "cedarsystemspartne.com",
+      "employee_count": 750,
+      "founded_year": 1989,
+      "hiring_now": false,
+      "industry": "Manufacturing",
+      "last_funding_months_ago": 3,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "aws",
+        "segment"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "cedarsystemspartne-com"
+  },
+  {
+    "company_name": "PETAL,COSMETICS HOLDINGS INC",
+    "domain": "petalcosmeticshold.com",
+    "enrichment": {
+      "domain": "petalcosmeticshold.com",
+      "employee_count": 320,
+      "founded_year": null,
+      "hiring_now": true,
+      "industry": null,
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "react",
+        "salesforce",
+        "datadog",
+        "python"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "petalcosmeticshold-com"
+  },
+  {
+    "company_name": "Juniper Mobility Holdings Corp",
+    "domain": "junipermobilityhol.com",
+    "enrichment": {
+      "domain": "junipermobilityhol.com",
+      "employee_count": 24,
+      "founded_year": 1985,
+      "hiring_now": false,
+      "industry": "Manufacturing",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "react"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "junipermobilityhol-com"
+  },
+  {
+    "company_name": "Drift Apparel Holdings Corp",
+    "domain": "driftapparelholdin.com",
+    "enrichment": {
+      "domain": "driftapparelholdin.com",
+      "employee_count": 1500,
+      "founded_year": 2020,
+      "hiring_now": true,
+      "industry": "Gaming",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "datadog",
+        "kubernetes",
+        "salesforce",
+        "azure"
+      ]
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "driftapparelholdin-com"
+  },
+  {
+    "company_name": "Petal Cosmetics Incorporated",
+    "domain": "petalcosmetics.com",
+    "enrichment": {
+      "domain": "petalcosmetics.com",
+      "employee_count": 140,
+      "founded_year": 1986,
+      "hiring_now": false,
+      "industry": "Construction",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "react"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "petalcosmetics-com"
+  },
+  {
+    "company_name": "Cobalt Telecom International Inc.",
+    "domain": "cobalttelecominter.com",
+    "enrichment": {
+      "domain": "cobalttelecominter.com",
+      "employee_count": 320,
+      "founded_year": 2020,
+      "hiring_now": false,
+      "industry": "Hospitality",
+      "last_funding_months_ago": null,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "react",
+        "kubernetes"
+      ]
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "cobalttelecominter-com"
+  },
+  {
+    "company_name": "Rivet Hardware Partners Incorporated",
+    "domain": "rivethardwarepartn.com",
+    "enrichment": {
+      "domain": "rivethardwarepartn.com",
+      "employee_count": 320,
+      "founded_year": 2009,
+      "hiring_now": true,
+      "industry": "Hospitality",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "react",
+        "snowflake"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "rivethardwarepartn-com"
+  },
+  {
+    "company_name": "Willow Childcare Incorporated",
+    "domain": "willowchildcare.com",
+    "enrichment": {
+      "domain": "willowchildcare.com",
+      "employee_count": 1500,
+      "founded_year": 1990,
+      "hiring_now": false,
+      "industry": "Construction",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "kubernetes",
+        "datadog",
+        "gcp",
+        "hubspot"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "willowchildcare-com"
+  },
+  {
+    "company_name": "NIMBUS,CLOUD GROUP CORP",
+    "domain": "nimbuscloudgroup.com",
+    "enrichment": {
+      "domain": "nimbuscloudgroup.com",
+      "employee_count": 750,
+      "founded_year": 2004,
+      "hiring_now": false,
+      "industry": "Gaming",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "aws",
+        "datadog",
+        "snowflake"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "nimbuscloudgroup-com"
+  },
+  {
+    "company_name": "Halcyon Pharma Global Inc",
+    "domain": "halcyonpharmagloba.com",
+    "enrichment": {},
+    "enrichment_attempts": 1,
+    "enrichment_reason": "provider_404",
+    "enrichment_status": "not_found",
+    "entity_id": "halcyonpharmagloba-com"
+  },
+  {
+    "company_name": "Quill Software Group Co",
+    "domain": "quillsoftwaregroup.com",
+    "enrichment": {
+      "domain": "quillsoftwaregroup.com",
+      "employee_count": 4200,
+      "founded_year": 1997,
+      "hiring_now": true,
+      "industry": "Gaming",
+      "last_funding_months_ago": 3,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "salesforce",
+        "kubernetes"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "quillsoftwaregroup-com"
+  },
+  {
+    "company_name": "anchor marine international ltd",
+    "domain": "anchormarineintern.com",
+    "enrichment": {
+      "domain": "anchormarineintern.com",
+      "employee_count": 1500,
+      "founded_year": 2019,
+      "hiring_now": false,
+      "industry": "Retail",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "azure"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "anchormarineintern-com"
+  },
+  {
+    "company_name": "Pinecrest Media Group Co",
+    "domain": "pinecrestmediagrou.com",
+    "enrichment": {
+      "domain": "pinecrestmediagrou.com",
+      "employee_count": 750,
+      "founded_year": 2002,
+      "hiring_now": true,
+      "industry": "Manufacturing",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "pinecrestmediagrou-com"
+  },
+  {
+    "company_name": "Halcyon Pharma International Inc.",
+    "domain": "halcyonpharmainter.com",
+    "enrichment": {
+      "domain": "halcyonpharmainter.com",
+      "employee_count": 24,
+      "founded_year": 2011,
+      "hiring_now": true,
+      "industry": "Hospitality",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "segment",
+        "hubspot"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "halcyonpharmainter-com"
+  },
+  {
+    "company_name": "Rivet Hardware Holdings Co",
+    "domain": "rivethardwareholdi.com",
+    "enrichment": {
+      "domain": "rivethardwareholdi.com",
+      "employee_count": 320,
+      "founded_year": 2020,
+      "hiring_now": false,
+      "industry": "Insurance",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "kubernetes"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "rivethardwareholdi-com"
+  },
+  {
+    "company_name": "Harbor Health Group",
+    "domain": "harborhealthgroup.com",
+    "enrichment": {
+      "domain": "harborhealthgroup.com",
+      "employee_count": 140,
+      "founded_year": 2013,
+      "hiring_now": false,
+      "industry": "Insurance",
+      "last_funding_months_ago": 26,
+      "revenue_band": null,
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "harborhealthgroup-com"
+  },
+  {
+    "company_name": "Petal Cosmetics Global",
+    "domain": "petalcosmeticsglob.com",
+    "enrichment": {
+      "domain": "petalcosmeticsglob.com",
+      "employee_count": 140,
+      "founded_year": 2020,
+      "hiring_now": true,
+      "industry": "Insurance",
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "react",
+        "aws",
+        "datadog"
+      ]
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "petalcosmeticsglob-com"
+  },
+  {
+    "company_name": "Anchor Marine Ltd.",
+    "domain": "anchormarine.com",
+    "enrichment": {
+      "domain": "anchormarine.com",
+      "employee_count": 24,
+      "founded_year": 2016,
+      "hiring_now": true,
+      "industry": "Logistics",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "kubernetes"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "anchormarine-com"
+  },
+  {
+    "company_name": "Rivet,Hardware Group Ltd.",
+    "domain": "rivethardwaregroup.com",
+    "enrichment": {
+      "domain": "rivethardwaregroup.com",
+      "employee_count": 4200,
+      "founded_year": 2000,
+      "hiring_now": true,
+      "industry": "Energy",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "python",
+        "aws"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "rivethardwaregroup-com"
+  },
+  {
+    "company_name": "Juniper Mobility Inc.",
+    "domain": "junipermobility.com",
+    "enrichment": {
+      "domain": "junipermobility.com",
+      "employee_count": 60,
+      "founded_year": 2016,
+      "hiring_now": true,
+      "industry": "Logistics",
+      "last_funding_months_ago": 3,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "datadog",
+        "hubspot"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "junipermobility-com"
+  },
+  {
+    "company_name": "Sterling Robotics International Ltd",
+    "domain": "sterlingroboticsin.com",
+    "enrichment": {
+      "domain": "sterlingroboticsin.com",
+      "employee_count": 4200,
+      "founded_year": 1993,
+      "hiring_now": false,
+      "industry": "Software",
+      "last_funding_months_ago": null,
+      "revenue_band": null,
+      "tech_signals": null
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "sterlingroboticsin-com"
+  },
+  {
+    "company_name": "Harbor Health Holdings Inc.",
+    "domain": "harborhealthholdin.com",
+    "enrichment": {
+      "domain": "harborhealthholdin.com",
+      "employee_count": 320,
+      "founded_year": 2003,
+      "hiring_now": true,
+      "industry": "Telecom",
+      "last_funding_months_ago": 26,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "python"
+      ]
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "harborhealthholdin-com"
+  },
+  {
+    "company_name": "Onyx Mining Global Co.",
+    "domain": "onyxminingglobal.com",
+    "enrichment": {
+      "domain": "onyxminingglobal.com",
+      "employee_count": 60,
+      "founded_year": 1995,
+      "hiring_now": false,
+      "industry": "Education",
+      "last_funding_months_ago": 7,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "salesforce",
+        "stripe"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "onyxminingglobal-com"
+  },
+  {
+    "company_name": "Juniper,Mobility International Incorporated",
+    "domain": "junipermobilityint.com",
+    "enrichment": {
+      "domain": "junipermobilityint.com",
+      "employee_count": 320,
+      "founded_year": null,
+      "hiring_now": false,
+      "industry": null,
+      "last_funding_months_ago": 7,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "react",
+        "datadog",
+        "salesforce"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "junipermobilityint-com"
+  },
+  {
+    "company_name": "Tideline Finance Co.",
+    "domain": "tidelinefinance.com",
+    "enrichment": {
+      "domain": "tidelinefinance.com",
+      "employee_count": 140,
+      "founded_year": 1998,
+      "hiring_now": true,
+      "industry": "Pharmaceuticals",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "snowflake",
+        "salesforce",
+        "python",
+        "gcp"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "tidelinefinance-com"
+  },
+  {
+    "company_name": "THICKET GAMING PARTNERS CORP",
+    "domain": "thicketgamingpartn.com",
+    "enrichment": {
+      "domain": "thicketgamingpartn.com",
+      "employee_count": 1500,
+      "founded_year": 2017,
+      "hiring_now": true,
+      "industry": "Education",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "thicketgamingpartn-com"
+  },
+  {
+    "company_name": "Juniper Mobility Group Incorporated",
+    "domain": "junipermobilitygro.com",
+    "enrichment": {
+      "domain": "junipermobilitygro.com",
+      "employee_count": 1500,
+      "founded_year": null,
+      "hiring_now": true,
+      "industry": null,
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "kubernetes",
+        "hubspot"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "junipermobilitygro-com"
+  },
+  {
+    "company_name": "ACORN EDUCATION GROUP INC.",
+    "domain": "acorneducationgrou.com",
+    "enrichment": {
+      "domain": "acorneducationgrou.com",
+      "employee_count": 8,
+      "founded_year": 2001,
+      "hiring_now": false,
+      "industry": "Energy",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "acorneducationgrou-com"
+  },
+  {
+    "company_name": "Quill Software International Co",
+    "domain": "quillsoftwareinter.com",
+    "enrichment": {
+      "domain": "quillsoftwareinter.com",
+      "employee_count": 320,
+      "founded_year": 2020,
+      "hiring_now": true,
+      "industry": "Finance",
+      "last_funding_months_ago": null,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "snowflake",
+        "hubspot",
+        "salesforce",
+        "react"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "quillsoftwareinter-com"
+  },
+  {
+    "company_name": "Larkspur Toys Partners LLC",
+    "domain": "larkspurtoyspartne.com",
+    "enrichment": {
+      "domain": "larkspurtoyspartne.com",
+      "employee_count": 24,
+      "founded_year": 1994,
+      "hiring_now": true,
+      "industry": "Telecom",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "segment",
+        "azure"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "larkspurtoyspartne-com"
+  },
+  {
+    "company_name": "Saffron Spices Global",
+    "domain": "saffronspicesgloba.com",
+    "enrichment": {
+      "domain": "saffronspicesgloba.com",
+      "employee_count": 8,
+      "founded_year": 1991,
+      "hiring_now": false,
+      "industry": "Insurance",
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "stripe",
+        "react"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "saffronspicesgloba-com"
+  },
+  {
+    "company_name": "harbor,health global ltd.",
+    "domain": "harborhealthglobal.com",
+    "enrichment": {
+      "domain": "harborhealthglobal.com",
+      "employee_count": 4200,
+      "founded_year": 1996,
+      "hiring_now": false,
+      "industry": "Retail",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "azure",
+        "salesforce",
+        "segment",
+        "aws"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "harborhealthglobal-com"
+  },
+  {
+    "company_name": "Birch Furniture Inc",
+    "domain": "birchfurniture.com",
+    "enrichment": {
+      "domain": "birchfurniture.com",
+      "employee_count": 320,
+      "founded_year": null,
+      "hiring_now": true,
+      "industry": "Logistics",
+      "last_funding_months_ago": null,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "gcp"
+      ]
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "birchfurniture-com"
+  },
+  {
+    "company_name": "Vanta,Foods International Inc.",
+    "domain": "vantafoodsinternat.com",
+    "enrichment": {
+      "domain": "vantafoodsinternat.com",
+      "employee_count": 4200,
+      "founded_year": 1988,
+      "hiring_now": true,
+      "industry": "Finance",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "vantafoodsinternat-com"
+  },
+  {
+    "company_name": "Ember Hospitality Holdings Co.",
+    "domain": "emberhospitalityho.com",
+    "enrichment": {
+      "domain": "emberhospitalityho.com",
+      "employee_count": 320,
+      "founded_year": 1990,
+      "hiring_now": false,
+      "industry": "Retail",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "react",
+        "hubspot"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "emberhospitalityho-com"
+  },
+  {
+    "company_name": "ZEPHYR DRONES PARTNERS INC",
+    "domain": "zephyrdronespartne.com",
+    "enrichment": {
+      "domain": "zephyrdronespartne.com",
+      "employee_count": 8,
+      "founded_year": 1995,
+      "hiring_now": true,
+      "industry": "Energy",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "react",
+        "python",
+        "aws"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "zephyrdronespartne-com"
+  },
+  {
+    "company_name": "willow childcare partners co.",
+    "domain": "willowchildcarepar.com",
+    "enrichment": {
+      "domain": "willowchildcarepar.com",
+      "employee_count": 140,
+      "founded_year": 2011,
+      "hiring_now": false,
+      "industry": "Pharmaceuticals",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "snowflake",
+        "salesforce"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "willowchildcarepar-com"
+  },
+  {
+    "company_name": "Cobalt Telecom Inc.",
+    "domain": "cobalttelecom.com",
+    "enrichment": {
+      "domain": "cobalttelecom.com",
+      "employee_count": 1500,
+      "founded_year": 1993,
+      "hiring_now": true,
+      "industry": "Telecom",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "datadog",
+        "kubernetes"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "cobalttelecom-com"
+  },
+  {
+    "company_name": "ZEPHYR DRONES HOLDINGS LTD.",
+    "domain": "zephyrdronesholdin.com",
+    "enrichment": {
+      "domain": "zephyrdronesholdin.com",
+      "employee_count": 320,
+      "founded_year": 2001,
+      "hiring_now": true,
+      "industry": "Energy",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "zephyrdronesholdin-com"
+  },
+  {
+    "company_name": "Meridian Travel International Inc.",
+    "domain": "meridiantravelinte.com",
+    "enrichment": {
+      "domain": "meridiantravelinte.com",
+      "employee_count": 24,
+      "founded_year": 2007,
+      "hiring_now": false,
+      "industry": "Finance",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "react",
+        "aws",
+        "salesforce",
+        "hubspot"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "meridiantravelinte-com"
+  },
+  {
+    "company_name": "Thicket Gaming LLC",
+    "domain": "thicketgaming.com",
+    "enrichment": {
+      "domain": "thicketgaming.com",
+      "employee_count": 24,
+      "founded_year": 1986,
+      "hiring_now": false,
+      "industry": "Pharmaceuticals",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "kubernetes",
+        "react",
+        "gcp",
+        "snowflake"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "thicketgaming-com"
+  },
+  {
+    "company_name": "Granite Insurance International Corp",
+    "domain": "graniteinsurancein.com",
+    "enrichment": {
+      "domain": "graniteinsurancein.com",
+      "employee_count": 60,
+      "founded_year": 2004,
+      "hiring_now": true,
+      "industry": "Finance",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "aws",
+        "segment"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "graniteinsurancein-com"
+  },
+  {
+    "company_name": "Mosaic Payments Holdings Ltd",
+    "domain": "mosaicpaymentshold.com",
+    "enrichment": {
+      "domain": "mosaicpaymentshold.com",
+      "employee_count": 750,
+      "founded_year": 2009,
+      "hiring_now": true,
+      "industry": "Construction",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "gcp",
+        "snowflake",
+        "salesforce",
+        "react"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "mosaicpaymentshold-com"
+  },
+  {
+    "company_name": "Petal,Cosmetics Partners LLC",
+    "domain": "petalcosmeticspart.com",
+    "enrichment": {
+      "domain": "petalcosmeticspart.com",
+      "employee_count": 140,
+      "founded_year": 1987,
+      "hiring_now": false,
+      "industry": "Healthcare",
+      "last_funding_months_ago": null,
+      "revenue_band": null,
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "petalcosmeticspart-com"
+  },
+  {
+    "company_name": "Cobalt Telecom Global LLC",
+    "domain": "cobalttelecomgloba.com",
+    "enrichment": {
+      "domain": "cobalttelecomgloba.com",
+      "employee_count": 8,
+      "founded_year": 2005,
+      "hiring_now": false,
+      "industry": "Hospitality",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "segment",
+        "gcp"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "cobalttelecomgloba-com"
+  },
+  {
+    "company_name": "Anchor Marine Global",
+    "domain": "anchormarineglobal.com",
+    "enrichment": {},
+    "enrichment_attempts": 2,
+    "enrichment_reason": "provider_404",
+    "enrichment_status": "not_found",
+    "entity_id": "anchormarineglobal-com"
+  },
+  {
+    "company_name": "Pinecrest,Media International Ltd.",
+    "domain": "pinecrestmediainte.com",
+    "enrichment": {
+      "domain": "pinecrestmediainte.com",
+      "employee_count": 60,
+      "founded_year": 1993,
+      "hiring_now": false,
+      "industry": "Insurance",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "pinecrestmediainte-com"
+  },
+  {
+    "company_name": "Foxglove,Energy Global Ltd.",
+    "domain": "foxgloveenergyglob.com",
+    "enrichment": {
+      "domain": "foxgloveenergyglob.com",
+      "employee_count": 750,
+      "founded_year": null,
+      "hiring_now": false,
+      "industry": "Education",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$250M+",
+      "tech_signals": null
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "foxgloveenergyglob-com"
+  },
+  {
+    "company_name": "Larkspur,Toys Global Ltd",
+    "domain": "larkspurtoysglobal.com",
+    "enrichment": {
+      "domain": "larkspurtoysglobal.com",
+      "employee_count": 60,
+      "founded_year": 2022,
+      "hiring_now": false,
+      "industry": "Energy",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "kubernetes",
+        "azure",
+        "segment"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "larkspurtoysglobal-com"
+  },
+  {
+    "company_name": "LUMEN RETAIL INTERNATIONAL INC",
+    "domain": "lumenretailinterna.com",
+    "enrichment": {
+      "domain": "lumenretailinterna.com",
+      "employee_count": 60,
+      "founded_year": 2009,
+      "hiring_now": false,
+      "industry": "Energy",
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "salesforce",
+        "snowflake",
+        "react"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "lumenretailinterna-com"
+  },
+  {
+    "company_name": "Anchor Marine Holdings",
+    "domain": "anchormarineholdin.com",
+    "enrichment": {
+      "domain": "anchormarineholdin.com",
+      "employee_count": 4200,
+      "founded_year": 1986,
+      "hiring_now": true,
+      "industry": "Media",
+      "last_funding_months_ago": 3,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "snowflake"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "anchormarineholdin-com"
+  },
+  {
+    "company_name": "Ember Hospitality International LLC",
+    "domain": "emberhospitalityin.com",
+    "enrichment": {
+      "domain": "emberhospitalityin.com",
+      "employee_count": 8,
+      "founded_year": 1999,
+      "hiring_now": true,
+      "industry": null,
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "aws",
+        "snowflake"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "emberhospitalityin-com"
+  },
+  {
+    "company_name": "Tideline Finance Holdings Inc.",
+    "domain": "tidelinefinancehol.com",
+    "enrichment": {
+      "domain": "tidelinefinancehol.com",
+      "employee_count": 60,
+      "founded_year": 1991,
+      "hiring_now": true,
+      "industry": "Software",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "tidelinefinancehol-com"
+  },
+  {
+    "company_name": "Umbra Optics Global Co.",
+    "domain": "umbraopticsglobal.com",
+    "enrichment": {
+      "domain": "umbraopticsglobal.com",
+      "employee_count": 1500,
+      "founded_year": 1992,
+      "hiring_now": false,
+      "industry": null,
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": null
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "umbraopticsglobal-com"
+  },
+  {
+    "company_name": "Xenon,Labs International Ltd.",
+    "domain": "xenonlabsinternati.com",
+    "enrichment": {
+      "domain": "xenonlabsinternati.com",
+      "employee_count": 24,
+      "founded_year": 1998,
+      "hiring_now": false,
+      "industry": null,
+      "last_funding_months_ago": 3,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": null
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "xenonlabsinternati-com"
+  },
+  {
+    "company_name": "Granite Insurance Group Incorporated",
+    "domain": "graniteinsurancegr.com",
+    "enrichment": {
+      "domain": "graniteinsurancegr.com",
+      "employee_count": 750,
+      "founded_year": 2023,
+      "hiring_now": false,
+      "industry": "Logistics",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": null
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "graniteinsurancegr-com"
+  },
+  {
+    "company_name": "Zephyr Drones Inc",
+    "domain": "zephyrdrones.com",
+    "enrichment": {
+      "domain": "zephyrdrones.com",
+      "employee_count": 320,
+      "founded_year": 1995,
+      "hiring_now": false,
+      "industry": "Hospitality",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "segment",
+        "python"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "zephyrdrones-com"
+  },
+  {
+    "company_name": "Onyx Mining Partners Co.",
+    "domain": "onyxminingpartners.com",
+    "enrichment": {
+      "domain": "onyxminingpartners.com",
+      "employee_count": 140,
+      "founded_year": 2005,
+      "hiring_now": false,
+      "industry": "Healthcare",
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "onyxminingpartners-com"
+  },
+  {
+    "company_name": "Umbra Optics Holdings Corp",
+    "domain": "umbraopticsholding.com",
+    "enrichment": {
+      "domain": "umbraopticsholding.com",
+      "employee_count": 750,
+      "founded_year": 2020,
+      "hiring_now": false,
+      "industry": "Healthcare",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "segment"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "umbraopticsholding-com"
+  },
+  {
+    "company_name": "Kestrel Security Group LLC",
+    "domain": "kestrelsecuritygro.com",
+    "enrichment": {
+      "domain": "kestrelsecuritygro.com",
+      "employee_count": 4200,
+      "founded_year": 2013,
+      "hiring_now": false,
+      "industry": "Energy",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "kubernetes",
+        "datadog",
+        "azure"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "kestrelsecuritygro-com"
+  },
+  {
+    "company_name": "Thicket,Gaming Global Inc",
+    "domain": "thicketgaminggloba.com",
+    "enrichment": {
+      "domain": "thicketgaminggloba.com",
+      "employee_count": 750,
+      "founded_year": 2020,
+      "hiring_now": false,
+      "industry": "Logistics",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "datadog",
+        "gcp",
+        "kubernetes",
+        "aws"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "thicketgaminggloba-com"
+  },
+  {
+    "company_name": "Foxglove,Energy Holdings Corp",
+    "domain": "foxgloveenergyhold.com",
+    "enrichment": {
+      "domain": "foxgloveenergyhold.com",
+      "employee_count": 140,
+      "founded_year": 2019,
+      "hiring_now": true,
+      "industry": "Insurance",
+      "last_funding_months_ago": 26,
+      "revenue_band": "$250M+",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "foxgloveenergyhold-com"
+  },
+  {
+    "company_name": "Willow Childcare Holdings LLC",
+    "domain": "willowchildcarehol.com",
+    "enrichment": {
+      "domain": "willowchildcarehol.com",
+      "employee_count": 24,
+      "founded_year": 2015,
+      "hiring_now": false,
+      "industry": "Logistics",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "gcp",
+        "snowflake",
+        "datadog",
+        "stripe"
+      ]
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "willowchildcarehol-com"
+  },
+  {
+    "company_name": "ZEPHYR DRONES GROUP INCORPORATED",
+    "domain": "zephyrdronesgroup.com",
+    "enrichment": {
+      "domain": "zephyrdronesgroup.com",
+      "employee_count": 24,
+      "founded_year": 2002,
+      "hiring_now": true,
+      "industry": "Telecom",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "datadog",
+        "aws",
+        "python",
+        "salesforce"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "zephyrdronesgroup-com"
+  },
+  {
+    "company_name": "Anchor Marine Group Inc.",
+    "domain": "anchormarinegroup.com",
+    "enrichment": {
+      "domain": "anchormarinegroup.com",
+      "employee_count": 8,
+      "founded_year": 2015,
+      "hiring_now": true,
+      "industry": null,
+      "last_funding_months_ago": 14,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": null
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "anchormarinegroup-com"
+  },
+  {
+    "company_name": "Tideline Finance Global Inc.",
+    "domain": "tidelinefinanceglo.com",
+    "enrichment": {
+      "domain": "tidelinefinanceglo.com",
+      "employee_count": 8,
+      "founded_year": 1997,
+      "hiring_now": false,
+      "industry": "Education",
+      "last_funding_months_ago": 3,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "kubernetes",
+        "snowflake"
+      ]
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "tidelinefinanceglo-com"
+  },
+  {
+    "company_name": "Willow Childcare Group Ltd",
+    "domain": "willowchildcaregro.com",
+    "enrichment": {
+      "domain": "willowchildcaregro.com",
+      "employee_count": 1500,
+      "founded_year": 1987,
+      "hiring_now": false,
+      "industry": "Retail",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "datadog",
+        "salesforce",
+        "python",
+        "stripe"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "willowchildcaregro-com"
+  },
+  {
+    "company_name": "BIRCH FURNITURE GLOBAL CORP",
+    "domain": "birchfurnitureglob.com",
+    "enrichment": {
+      "domain": "birchfurnitureglob.com",
+      "employee_count": 1500,
+      "founded_year": 2003,
+      "hiring_now": false,
+      "industry": "Gaming",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "python",
+        "kubernetes"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "birchfurnitureglob-com"
+  },
+  {
+    "company_name": "Lumen Retail Group Incorporated",
+    "domain": "lumenretailgroup.com",
+    "enrichment": {
+      "domain": "lumenretailgroup.com",
+      "employee_count": 140,
+      "founded_year": 1991,
+      "hiring_now": false,
+      "industry": "Logistics",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "kubernetes",
+        "python",
+        "datadog"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "lumenretailgroup-com"
+  },
+  {
+    "company_name": "Drift Apparel International Ltd.",
+    "domain": "driftapparelintern.com",
+    "enrichment": {
+      "domain": "driftapparelintern.com",
+      "employee_count": 1500,
+      "founded_year": 1987,
+      "hiring_now": true,
+      "industry": "Retail",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "react",
+        "kubernetes",
+        "hubspot"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "driftapparelintern-com"
+  },
+  {
+    "company_name": "vanta,foods incorporated",
+    "domain": "vantafoods.com",
+    "enrichment": {
+      "domain": "vantafoods.com",
+      "employee_count": 140,
+      "founded_year": 2005,
+      "hiring_now": false,
+      "industry": "Telecom",
+      "last_funding_months_ago": 14,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "snowflake",
+        "azure",
+        "python",
+        "hubspot"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "vantafoods-com"
+  },
+  {
+    "company_name": "Vanta,Foods Holdings Incorporated",
+    "domain": "vantafoodsholdings.com",
+    "enrichment": {
+      "domain": "vantafoodsholdings.com",
+      "employee_count": 4200,
+      "founded_year": 2020,
+      "hiring_now": true,
+      "industry": "Manufacturing",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "python",
+        "hubspot"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "vantafoodsholdings-com"
+  },
+  {
+    "company_name": "MOSAIC,PAYMENTS LTD.",
+    "domain": "mosaicpayments.com",
+    "enrichment": {
+      "domain": "mosaicpayments.com",
+      "employee_count": 8,
+      "founded_year": 1997,
+      "hiring_now": true,
+      "industry": "Construction",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "gcp",
+        "stripe"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "mosaicpayments-com"
+  },
+  {
+    "company_name": "umbra optics international inc",
+    "domain": "umbraopticsinterna.com",
+    "enrichment": {
+      "domain": "umbraopticsinterna.com",
+      "employee_count": 8,
+      "founded_year": 2020,
+      "hiring_now": false,
+      "industry": "Logistics",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "umbraopticsinterna-com"
+  },
+  {
+    "company_name": "Pinecrest Media Holdings Co.",
+    "domain": "pinecrestmediahold.com",
+    "enrichment": {
+      "domain": "pinecrestmediahold.com",
+      "employee_count": 320,
+      "founded_year": 2021,
+      "hiring_now": true,
+      "industry": "Logistics",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "segment",
+        "react",
+        "kubernetes"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "pinecrestmediahold-com"
+  },
+  {
+    "company_name": "XENON LABS HOLDINGS INCORPORATED",
+    "domain": "xenonlabsholdings.com",
+    "enrichment": {
+      "domain": "xenonlabsholdings.com",
+      "employee_count": 24,
+      "founded_year": 2010,
+      "hiring_now": true,
+      "industry": "Media",
+      "last_funding_months_ago": 3,
+      "revenue_band": null,
+      "tech_signals": [
+        "gcp",
+        "azure"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "xenonlabsholdings-com"
+  },
+  {
+    "company_name": "Birch Furniture Partners Corp",
+    "domain": "birchfurniturepart.com",
+    "enrichment": {
+      "domain": "birchfurniturepart.com",
+      "employee_count": 140,
+      "founded_year": 2012,
+      "hiring_now": false,
+      "industry": "Software",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "segment",
+        "python",
+        "react"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "birchfurniturepart-com"
+  },
+  {
+    "company_name": "Drift Apparel Global Incorporated",
+    "domain": "driftapparelglobal.com",
+    "enrichment": {
+      "domain": "driftapparelglobal.com",
+      "employee_count": 320,
+      "founded_year": 1987,
+      "hiring_now": false,
+      "industry": "Telecom",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "gcp",
+        "hubspot"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "driftapparelglobal-com"
+  },
+  {
+    "company_name": "Xenon Labs Group",
+    "domain": "xenonlabsgroup.com",
+    "enrichment": {
+      "domain": "xenonlabsgroup.com",
+      "employee_count": 140,
+      "founded_year": 2023,
+      "hiring_now": true,
+      "industry": "Healthcare",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "react",
+        "stripe",
+        "kubernetes"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "xenonlabsgroup-com"
+  },
+  {
+    "company_name": "Onyx Mining Holdings Inc.",
+    "domain": "onyxminingholdings.com",
+    "enrichment": {
+      "domain": "onyxminingholdings.com",
+      "employee_count": 750,
+      "founded_year": 2023,
+      "hiring_now": true,
+      "industry": "Energy",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "salesforce",
+        "react",
+        "snowflake"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "onyxminingholdings-com"
+  },
+  {
+    "company_name": "Yarrow Textiles Global",
+    "domain": "yarrowtextilesglob.com",
+    "enrichment": {
+      "domain": "yarrowtextilesglob.com",
+      "employee_count": 750,
+      "founded_year": 1994,
+      "hiring_now": true,
+      "industry": "Software",
+      "last_funding_months_ago": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "gcp",
+        "stripe",
+        "python"
+      ]
+    },
+    "enrichment_attempts": 3,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "yarrowtextilesglob-com"
+  },
+  {
+    "company_name": "ironwood agritech global co.",
+    "domain": "ironwoodagritechgl.com",
+    "enrichment": {
+      "domain": "ironwoodagritechgl.com",
+      "employee_count": 140,
+      "founded_year": 2016,
+      "hiring_now": true,
+      "industry": "Hospitality",
+      "last_funding_months_ago": null,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "salesforce"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "ironwoodagritechgl-com"
+  },
+  {
+    "company_name": "Kestrel Security Holdings LLC",
+    "domain": "kestrelsecurityhol.com",
+    "enrichment": {
+      "domain": "kestrelsecurityhol.com",
+      "employee_count": 4200,
+      "founded_year": null,
+      "hiring_now": true,
+      "industry": "Pharmaceuticals",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": null
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "kestrelsecurityhol-com"
+  },
+  {
+    "company_name": "MOSAIC PAYMENTS INTERNATIONAL CO.",
+    "domain": "mosaicpaymentsinte.com",
+    "enrichment": {
+      "domain": "mosaicpaymentsinte.com",
+      "employee_count": 140,
+      "founded_year": null,
+      "hiring_now": true,
+      "industry": "Hospitality",
+      "last_funding_months_ago": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "python",
+        "segment",
+        "azure"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "mosaicpaymentsinte-com"
+  },
+  {
+    "company_name": "Ironwood Agritech Partners Co",
+    "domain": "ironwoodagritechpa.com",
+    "enrichment": {
+      "domain": "ironwoodagritechpa.com",
+      "employee_count": 140,
+      "founded_year": 2010,
+      "hiring_now": false,
+      "industry": "Energy",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [
+        "kubernetes",
+        "azure"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "ironwoodagritechpa-com"
+  },
+  {
+    "company_name": "",
+    "domain": "ghostdomain.com",
+    "enrichment": {
+      "domain": "ghostdomain.com",
+      "employee_count": 24,
+      "founded_year": 2009,
+      "hiring_now": false,
+      "industry": "Pharmaceuticals",
+      "last_funding_months_ago": 3,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "react",
+        "snowflake",
+        "salesforce"
+      ]
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "ghostdomain-com"
+  },
+  {
+    "company_name": "Quartz Legal Partners Incorporated",
+    "domain": "quartzlegalpartner.com",
+    "enrichment": {
+      "domain": "quartzlegalpartner.com",
+      "employee_count": 4200,
+      "founded_year": 1989,
+      "hiring_now": false,
+      "industry": "Retail",
+      "last_funding_months_ago": 7,
+      "revenue_band": "<$1M",
+      "tech_signals": []
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "quartzlegalpartner-com"
+  },
+  {
+    "company_name": "PINECREST MEDIA GLOBAL INC",
+    "domain": "pinecrestmediaglob.com",
+    "enrichment": {
+      "domain": "pinecrestmediaglob.com",
+      "employee_count": 8,
+      "founded_year": 1987,
+      "hiring_now": true,
+      "industry": "Education",
+      "last_funding_months_ago": 14,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "python",
+        "kubernetes"
+      ]
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "pinecrestmediaglob-com"
+  },
+  {
+    "company_name": "Sterling Robotics Holdings Co.",
+    "domain": "sterlingroboticsho.com",
+    "enrichment": {},
+    "enrichment_attempts": 1,
+    "enrichment_reason": "provider_404",
+    "enrichment_status": "not_found",
+    "entity_id": "sterlingroboticsho-com"
+  },
+  {
+    "company_name": "Meridian,Travel Group",
+    "domain": "meridiantravelgrou.com",
+    "enrichment": {
+      "domain": "meridiantravelgrou.com",
+      "employee_count": 140,
+      "founded_year": 2017,
+      "hiring_now": false,
+      "industry": "Construction",
+      "last_funding_months_ago": 7,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "snowflake"
+      ]
+    },
+    "enrichment_attempts": 1,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "meridiantravelgrou-com"
+  },
+  {
+    "company_name": "Saffron,Spices International Incorporated",
+    "domain": "saffronspicesinter.com",
+    "enrichment": {
+      "domain": "saffronspicesinter.com",
+      "employee_count": 750,
+      "founded_year": 2023,
+      "hiring_now": true,
+      "industry": "Energy",
+      "last_funding_months_ago": null,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "datadog",
+        "python"
+      ]
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "saffronspicesinter-com"
+  },
+  {
+    "company_name": "Stray Holdings LLC",
+    "domain": "strayholdings.com",
+    "enrichment": {
+      "domain": "strayholdings.com",
+      "employee_count": 60,
+      "founded_year": 2003,
+      "hiring_now": false,
+      "industry": "Insurance",
+      "last_funding_months_ago": null,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "python",
+        "snowflake"
+      ]
+    },
+    "enrichment_attempts": 2,
+    "enrichment_reason": "",
+    "enrichment_status": "success",
+    "entity_id": "strayholdings-com"
+  },
+  {
+    "company_name": "FOXGLOVE ENERGY INCORPORATED",
+    "domain": "",
+    "enrichment": {},
+    "enrichment_attempts": 0,
+    "enrichment_reason": "missing_domain",
+    "enrichment_status": "skipped",
+    "entity_id": "foxglove-energy-incorporated"
+  },
+  {
+    "company_name": "Meridian Travel Partners Ltd.",
+    "domain": "",
+    "enrichment": {},
+    "enrichment_attempts": 0,
+    "enrichment_reason": "missing_domain",
+    "enrichment_status": "skipped",
+    "entity_id": "meridian-travel-partners"
+  },
+  {
+    "company_name": "Quill Software Global Incorporated",
+    "domain": "",
+    "enrichment": {},
+    "enrichment_attempts": 0,
+    "enrichment_reason": "missing_domain",
+    "enrichment_status": "skipped",
+    "entity_id": "quill-software-global-incorporated"
+  },
+  {
+    "company_name": "Orbit Manufacturing Ltd",
+    "domain": "",
+    "enrichment": {},
+    "enrichment_attempts": 0,
+    "enrichment_reason": "missing_domain",
+    "enrichment_status": "skipped",
+    "entity_id": "orbit-manufacturing"
+  },
+  {
+    "company_name": "Yarrow Textiles International LLC",
+    "domain": "",
+    "enrichment": {},
+    "enrichment_attempts": 0,
+    "enrichment_reason": "missing_domain",
+    "enrichment_status": "skipped",
+    "entity_id": "yarrow-textiles-international"
+  },
+  {
+    "company_name": "orbit manufacturing holdings incorporated",
+    "domain": "",
+    "enrichment": {},
+    "enrichment_attempts": 0,
+    "enrichment_reason": "missing_domain",
+    "enrichment_status": "skipped",
+    "entity_id": "orbit-manufacturing-incorporated"
+  },
+  {
+    "company_name": "Saffron Spices International Ltd",
+    "domain": "",
+    "enrichment": {},
+    "enrichment_attempts": 0,
+    "enrichment_reason": "missing_domain",
+    "enrichment_status": "skipped",
+    "entity_id": "saffron-spices-international"
+  },
+  {
+    "company_name": "Verdant,Landscaping Global",
+    "domain": "",
+    "enrichment": {},
+    "enrichment_attempts": 0,
+    "enrichment_reason": "missing_domain",
+    "enrichment_status": "skipped",
+    "entity_id": "verdant-landscaping-global"
+  },
+  {
+    "company_name": "Rivet Hardware Global Inc.",
+    "domain": "",
+    "enrichment": {},
+    "enrichment_attempts": 0,
+    "enrichment_reason": "missing_domain",
+    "enrichment_status": "skipped",
+    "entity_id": "rivet-hardware-global"
+  },
+  {
+    "company_name": "nimbus cloud international inc",
+    "domain": "",
+    "enrichment": {},
+    "enrichment_attempts": 0,
+    "enrichment_reason": "missing_domain",
+    "enrichment_status": "skipped",
+    "entity_id": "nimbus-cloud-international"
+  },
+  {
+    "company_name": "Nimbus Cloud Global Incorporated",
+    "domain": "",
+    "enrichment": {},
+    "enrichment_attempts": 0,
+    "enrichment_reason": "missing_domain",
+    "enrichment_status": "skipped",
+    "entity_id": "nimbus-cloud-global-incorporated"
+  },
+  {
+    "company_name": "Drift Apparel International Incorporated",
+    "domain": "",
+    "enrichment": {},
+    "enrichment_attempts": 0,
+    "enrichment_reason": "missing_domain",
+    "enrichment_status": "skipped",
+    "entity_id": "drift-apparel-international-incorporated"
+  },
+  {
+    "company_name": "Willow Childcare Global",
+    "domain": "",
+    "enrichment": {},
+    "enrichment_attempts": 0,
+    "enrichment_reason": "missing_domain",
+    "enrichment_status": "skipped",
+    "entity_id": "willow-childcare-global"
+  },
+  {
+    "company_name": "sterling robotics global corp",
+    "domain": "",
+    "enrichment": {},
+    "enrichment_attempts": 0,
+    "enrichment_reason": "missing_domain",
+    "enrichment_status": "skipped",
+    "entity_id": "sterling-robotics-global"
+  },
+  {
+    "company_name": "Northwind Logistics Group LLC",
+    "domain": "",
+    "enrichment": {},
+    "enrichment_attempts": 0,
+    "enrichment_reason": "missing_domain",
+    "enrichment_status": "skipped",
+    "entity_id": "northwind-logistics"
+  },
+  {
+    "company_name": "Larkspur Toys International Incorporated",
+    "domain": "",
+    "enrichment": {},
+    "enrichment_attempts": 0,
+    "enrichment_reason": "missing_domain",
+    "enrichment_status": "skipped",
+    "entity_id": "larkspur-toys-international-incorporated"
+  },
+  {
+    "company_name": "Umbra Optics Incorporated",
+    "domain": "",
+    "enrichment": {},
+    "enrichment_attempts": 0,
+    "enrichment_reason": "missing_domain",
+    "enrichment_status": "skipped",
+    "entity_id": "umbra-optics-incorporated"
+  }
+]
