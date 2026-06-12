@@ -2,7 +2,7 @@
 
 ## Summary
 
-I used AI as a development assistant during this task. I did not use it as a replacement for understanding the project. I used it to break down the problem, generate implementation ideas, review tradeoffs, draft documentation, and prepare explanations that I could defend in my own words.
+I used Codex AI as a development assistant during this task. I did not use it as a replacement for understanding the project. I used it to break down the problem, generate implementation ideas, review tradeoffs, draft documentation, and prepare explanations that I could defend in my own words.
 
 ## Where I Used AI
 
